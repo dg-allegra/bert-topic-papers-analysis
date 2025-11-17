@@ -1,0 +1,1116 @@
+﻿Scopus
+EXPORT DATE: 04 July 2025
+
+Improving the thickness accuracy of cold rolled narrow strip by piezoelectric roll gap control at high rolling speed
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046367080&doi=10.1016%2fj.cirp.2018.04.107&partnerID=40&md5=41fd1f476c7ef59f909a7b92a203ceb2
+
+ABSTRACT: Particularly in fast rolling mills, conventional actuators reach their dynamic limits, when longitudinal thickness variations of the incoming strip shall be reduced with high accuracy by model-predictive roll gap control. Accordingly, the applicability of highly dynamic piezoelectric actuators in combination with electromechanical spindles and a high frequency precision measurement of the thickness in front of the roll gap was examined. Rolling tests in a cold rolling mill for narrow slit strips show that this novel concept is suitable to provide the required dynamic actuation especially at high rolling speed. © 2018
+AUTHOR KEYWORDS: Accuracy; Piezoelectric; Rolling
+
+Planar random graph representations of spatiotemporal surface morphology: Application to finishing of 3-D printed components
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046135875&doi=10.1016%2fj.cirp.2018.04.042&partnerID=40&md5=f3ecebff84390e51e36cf1feeb83738f
+
+ABSTRACT: Surface finishing processes consume 20–70% of the cycle time of the emerging additive manufacturing process chains. Effective representations of the spatiotemporal evolution of the surface morphology are imperative towards developing monitoring schemes to arrest cycle time overruns. We present a thermodynamically consistent random planar graph representation to monitor, via in situ imaging, the spatiotemporal evolution of surface morphology during finishing processes. Experimental investigations into the finishing of electron beam printed Ti-6Al-4V components to Sa < 20 nm roughness suggest that the proposed representation captures the complex interflow among neighbouring asperities during finishing, and establishes a radically new endpoint criterion, i.e., surface quality improves only until each asperity interflows with six neighbours. © 2018
+AUTHOR KEYWORDS: Finishing; Network; Quality assurance; Spectral graph analytics
+
+High-efficiency swinging-rotating diamond shaping of Fresnel lenses on roller molds
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045559818&doi=10.1016%2fj.cirp.2018.03.020&partnerID=40&md5=af486cc5b213bea9c8f2beac3ce9e6fb
+
+ABSTRACT: Direct diamond cutting of complex optical features, like Fresnel lens, on a roller mold is time-consuming and costly, due to the fixed tool setting angle and slow imitated turning motion. In this paper, a high-efficiency 5-axis machining process is proposed, namely swinging-rotating diamond shaping (SDS). A special tool positioning attachment is developed to precisely swing the tool for shaping the annular rings with varying facet angles. This process is experimentally verified, with the machining efficiency enhanced by an order of magnitude compared to the conventional way, thus making Fresnel lenses machining on roller cost-efficient and hence applicable to industry. © 2018
+AUTHOR KEYWORDS: Fresnel lens; Mold; Ultra precision
+
+A novel approach for real-time prediction and prevention of tool chipping in intermittent turning machining
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046171320&doi=10.1016%2fj.cirp.2018.04.065&partnerID=40&md5=3e8d878a9c1627ae079dccdd41cbe17d
+
+ABSTRACT: An integrated tool condition monitoring system, based on a novel signal processing approach, for online prediction and prevention of tool chipping in intermittent turning is presented. It identifies the unstable crack propagation features of the prefailure phase, independent of the cutting parameters and workpiece material. A correlation between the chipping size and these features was developed for decision making, to protect machined surfaces. Experimental validation results confirmed the accuracy of the proposed system. The time required for signal processing, decision making and communication with the machine controller allows stopping the operation before part damage. No such system is presently available. © 2018
+AUTHOR KEYWORDS: Condition monitoring; Cutting; Prefailure prediction
+
+Process-independent workstation layout for lean automation
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047223187&doi=10.1016%2fj.cirp.2018.04.081&partnerID=40&md5=7802fb6089f39e460f4a5d0b5572e4f9
+
+ABSTRACT: Owing to increasing labor costs, manufacturing companies have placed importance on the implementation of inexpensive automation systems, especially in developing countries. In response to such requirements, we have proposed a lean automation system, wherein the waiting time of the material handling equipment is reduced. This is achieved by grouping the operations and allocating equipment to each operation group. With this design method, the workstations are not necessarily arranged in the order of the process sequence. In this study, we propose a method for optimizing the workstation layout to reduce the equipment transfer distance and to decrease the cost of equipment for each product. To verify the effectiveness of the proposed lean automation system, the method developed herein is applied to an electric engine control unit assembly line. © 2018
+AUTHOR KEYWORDS: Assembly automation; Design method; Line layout
+
+High performance ultra-precision turning of large-aspect-ratio rectangular freeform optics
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046359585&doi=10.1016%2fj.cirp.2018.04.073&partnerID=40&md5=1cade3e1b984f6cde39749360339527b
+
+ABSTRACT: Large-aspect-ratio rectangular freeform surfaces (LRFSs) are key components in optical scanning and wide-vision-field imaging systems. However, machining quality significantly affects the performance of LRFSs. This paper proposes a novel and effective machining approach that uses a position-optimized off-axis ultra-precision turning (UPT) strategy to eliminate traditional machining defects. The proposed method synthesizes the advantages of both ultra-precision milling and on-axis UPT to make the machining tool more flexible. The machining kinematic mechanism and optimal mounted position of the workpiece are first analyzed and experimental results presented. The results prove that the proposed method has the potential to realize the performance controllable goal in machining LRFSs with high efficiency. © 2018
+AUTHOR KEYWORDS: Performance controllable machining; Turning; Ultra precision
+
+Influence of ultrasonic vibration on the shear formability of metallic materials
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046809711&doi=10.1016%2fj.cirp.2018.04.108&partnerID=40&md5=8fe87e5b03767f784fbe86889e0405a3
+
+ABSTRACT: The flow stress reduction of metallic materials due to superimposed ultrasonic vibration is an intensively researched phenomenon. So far, however, only a few studies have analysed the vibrational influence on forming limits. Existing findings are inconsistent, suggesting both a formability extension and a decrease. Ultrasonic-assisted shear tests constitute a novel experimental approach for the fundamental investigation of predominant cause–effect–relationships. The test results reveal a distinct correlation between the application of ultrasonic vibration and earlier material failure. This effect is attributed to enhanced crack initiation and propagation caused by localised stress and strain concentration as well as intermittent high strain rates. © 2018
+AUTHOR KEYWORDS: Failure; Forming; Ultrasonic
+
+Integrated simulation-based facility layout and complex production line design under uncertainty
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046756129&doi=10.1016%2fj.cirp.2018.04.111&partnerID=40&md5=9eec3df1b4eac19c0a380bfabb0bcb5f
+
+ABSTRACT: When designing production lines, a series of complex, interdependent phases need to be considered. These phases include the facility layout design, the allocation of tasks to available resources, the workload balancing as well as the validation of the proposed design against demand. This paper addresses all these phases in an integrated way, with the aim of reducing the overall time required to finalise the layout and production line design, while improving the overall performance of the manufacturing system under process and demand uncertainty, utilising a sophisticated, simulation-based software framework. The proposed approach is demonstrated using a realistic case scenario. © 2018
+AUTHOR KEYWORDS: Facility layout problem; Manufacturing system; Multi-level modelling; Production planning
+
+Influence of spindle condition on the dynamic behavior
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046132090&doi=10.1016%2fj.cirp.2018.03.007&partnerID=40&md5=55064cbd16f948f58c82ee6e19468229
+
+ABSTRACT: The impact of spindle condition on machining performances is arduous to perceive since very long periods must be considered. This paper proposes an experimental approach based on accurate characterizations of the dynamic behavior for different spindle conditions (repaired or damaged). The Frequency Response Functions of the spindle were obtained for different spindle conditions and speeds, through an electromagnetic excitation device. The main failure modes of HSM spindle were then identified and modeled. Their effects on FRF were simulated and general conclusions were obtained concerning their impacts on spindle dynamics. Lastly, cutting tests reveal the impact of spindle condition on stability lobe diagrams. © 2018 CIRP
+AUTHOR KEYWORDS: Dynamics; Spindle; Wear
+
+Bio-inspired textures for functional applications
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050914120&doi=10.1016%2fj.cirp.2018.05.001&partnerID=40&md5=69a8c4eed82302274cdec17c222a19bb
+
+ABSTRACT: Textures are abundantly exploited in nature for securing superior functionalities including adhesion, color manipulation, anti-reflection, and drag management. Over millions of years, these advanced properties are endowed to various organisms on the planet to survive and adapt in harsh environmental conditions. Texture characteristics such as feature size, shape, periodicity, aspect ratio, orientation and hierarchy are critical in nature's ‘tool-box’. Manufacturing of cutting-edge products require multi-functionalities for efficiency, durability and sustainability for improving the quality of life of growing population. This paper analyzes and discusses convergence and underlying science and engineering of well proven natural strategies of surface textures and their effective synthetic implementation in engineered products. © 2018
+AUTHOR KEYWORDS: Bio-inspired; Surface Modification; Surface texture
+
+Truing of diamond wheels – Geometry, kinematics and removal mechanisms
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046754106&doi=10.1016%2fj.cirp.2018.04.091&partnerID=40&md5=34de367663b49887076f588e4d1a815a
+
+ABSTRACT: An investigation is made into traverse truing of diamond grinding wheels using various truing grit types, grit sizes and truing parameters. Geometry and kinematics of the truing contact are modeled. Specific energies are found to depend on truing-grit size but not on truing parameters, indicating little to no size effect. Removal mechanisms are analyzed via SEM examination of diamond- and truing-wheel swarf. A fundamental relationship is established relating the truing compliance number to the truing efficiency, which encompasses truing parameters and truing- and diamond-grit sizes. Recommendations are made for optimum conditions to minimize force-constrained truing time. © 2018
+AUTHOR KEYWORDS: Abrasive; Diamond; Truing
+
+Mechanisms and processing limits of surface finish using laser-thermochemical polishing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046882145&doi=10.1016%2fj.cirp.2018.04.098&partnerID=40&md5=647d372acaa92d58c1f6ffdce2fd66c3
+
+ABSTRACT: Laser thermochemical machining allows a controlled material removal of metallic workpieces for an aesthetic or functionalized structuring. This work deals with the question, why does a smoothing effect occurs and what are the mechanisms behind it? The results show, that the surface smoothing is based on the preferred material removal of the roughness peaks compared to the valleys, as well as microstructure related limits of the surface quality. This might be caused not by one single, but a combination of electrical, thermal and physicochemical mechanisms. These effects can be used for the controlled and selective surface polishing. © 2018
+AUTHOR KEYWORDS: Laser; Microstructure; Polishing
+
+Study of an annular laser beam based axially-fed powder cladding process
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046374322&doi=10.1016%2fj.cirp.2018.04.082&partnerID=40&md5=61e0048e9d637cb4218da7b76d3169c4
+
+ABSTRACT: An annular laser beam based powder cladding head, which enables an axial powder feeding and variation of the laser beam intensity distribution (LBID) on the workpiece surface is presented. The influence of typical LBIDs, including Ring, Tophat(−), Tophat(+), and Gaussian-like, on a cladding process has been characterized based on the process and melt pool visualization, powder catchment efficiency, clad layer geometry, and porosity. The results showed that the most stable process without plasma formation but with low dilution and porosity of the clad layer can be achieved within the range from a Ring to a Tophat(−) LBID. Additionally, axial powder feeding results in a high powder catchment efficiency above 80%. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Laser; Powder
+
+Semi-analytical modelling with numerical and experimental validation of electromagnetic forming using a uniform pressure actuator
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047183477&doi=10.1016%2fj.cirp.2018.04.028&partnerID=40&md5=cecf4269a9f958fd9a04c0845ea11726
+
+ABSTRACT: In this study, an electromagnetic forming process using a uniform pressure actuator is investigated through electro-magnetic-mechanically coupled numerical simulations; a simplified analytical model to predict the forming pressure and shell theory for mechanical deformation; and experimental results, which include Photon Doppler Velocimetry to measure the deformation. Velocity and the final deformed part shape are compared between the numerical, analytical, and experimental methods and reasonably good agreement is demonstrated. However, accurate comparison is affected by the energy level used with the numerical simulations matching better for the lower energy case due to less material draw-in and the analytical model providing more precise results for the higher energy case. © 2018
+AUTHOR KEYWORDS: Electromagnetic deformation; Forming; Modelling
+
+Design of a CFRP-elastomer composite with high stiffness and damping capability
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046158623&doi=10.1016%2fj.cirp.2018.04.029&partnerID=40&md5=ca0c88b60a9a1bac085446842bd3bf62
+
+ABSTRACT: Machine tool made of CFRP has been emerging. Damping capability of the CFRP structure is not fully sufficient for the machine tool. Hence, the viscoelastic damping material has been inserted to improve the damping capability. We developed the optimizing method of the damping material distribution to maximize the damping capability while simultaneously fulfilling requirements regarding the static stiffness and the first resonant frequency of the entire structure. The distribution of the damping material was optimized by the method. The results showed improvement of the damping capability by 23% that was proved through a series of experiments. © 2018
+AUTHOR KEYWORDS: Damping; Optimization; Structural analysis
+
+Bias voltage optimum adjustment considering coatings’ strength and adhesion requirements when cutting various steels
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045451938&doi=10.1016%2fj.cirp.2018.03.023&partnerID=40&md5=f90ca723e7014f7cb625b507f0f354e0
+
+ABSTRACT: PVD coatings were deposited at various bias voltages on cemented carbide inserts. The coating's mechanical properties, fatigue and adhesion were determined via FEM-supported evaluation of nanoindentation, perpendicular and inclined impact test results. The coated inserts were applied in milling hardened and normalized steel. For explaining the wear evolution based on the cutting loads and stress fields developed in the coating and its substrate, FEM calculations were performed considering among others the films’ strength and adhesion. According to the workpiece properties, certain coating's parameters become prevailing for the tool life. These depend on the bias voltage and facilitate its optimum adjustment. © 2018
+AUTHOR KEYWORDS: Adhesion; PVD-coating; Wear
+
+Fixed abrasive machining of non-metallic materials
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049922657&doi=10.1016%2fj.cirp.2018.05.010&partnerID=40&md5=343850ff716e8ff3874e0c22c1c7b130
+
+ABSTRACT: This paper summaries advancements in fixed abrasive machining of non-metallic materials, which include reinforced concretes, stones, rocks, carbon fiber reinforced plastic, metal and ceramic matrix composites, wood, wood-fiber plastic composite, biomaterials (bone, plaque, and enamel), and structural and electronic ceramics. The broad impacts, diverse applications, and innovations of fixed abrasive machining processes are presented. Benefits of the engineered deterministic distribution of abrasive grain grinding tools are demonstrated. Industrial perspectives and future research on innovative fixed abrasive machining technologies that enable new processes and improve the productivity are highlighted. © 2018
+AUTHOR KEYWORDS: Abrasive machining; Engineered grinding tool; Non-metallic materials
+
+Suppressing vibration modes of spindle-holder-tool assembly through FRF modification for enhanced chatter stability
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045554896&doi=10.1016%2fj.cirp.2018.03.003&partnerID=40&md5=2ca897fa11b128320b016c9ffab56834
+
+ABSTRACT: Modifying dynamic response of a machine tool is of great importance for chatter mitigation. Tool tip frequency response function (FRF) can be suppressed by capitalizing on the absorber effect due to dynamic interactions among vibration modes of spindle, holder and tool. In this paper, a practical method is presented to modify the system's FRF by selecting proper dimensions for assembly component without extensive testing. Robustness of the method is demonstrated through simulation and test results. Milling stability tests were also conducted where significant improvements in chatter free Material Removal Rate (MRR) is achieved. © 2018
+AUTHOR KEYWORDS: Chatter; Frequency response function; Milling
+
+Interdisciplinary multi-criteria optimization using hybrid simulation to pursue energy efficiency through production planning
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048532567&doi=10.1016%2fj.cirp.2018.04.059&partnerID=40&md5=5fdcf3ba5f3ff962c44009ee48a5ff73
+
+ABSTRACT: An energy-efficient production is imperative and can reduce costs. Despite the acknowledged potential to increase energy efficiency in production systems through production planning and control (PPC), adequate planning methods are lacking. This article presents an interdisciplinary approach for a simulation-based multi-criteria optimization, integrating energy efficiency into PPC objectives. The method considers production equipment together with HVAC and technical building services. It features a novel integrated hybrid discrete/continuous simulation method enabling to accurately capture dynamic interactions between material and energy flows. The approach is evaluated in a case study on the food industry, indicating potential energy efficiency gains of up to 30%. © 2018
+AUTHOR KEYWORDS: Energy efficiency; Optimization; Simulation
+
+Feeling machines for online detection and compensation of tool deflection in milling
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047301317&doi=10.1016%2fj.cirp.2018.04.110&partnerID=40&md5=4b8cd61d4704ad5b0fec33ac3b739741
+
+ABSTRACT: In milling, the tool deflection negatively affects the accuracy of the workpiece geometry. Feeling machines with force sensing capabilities represent a promising enabler to detect and to compensate the deflection-related machining failures in real time. This paper gives an overview about current applications of feeling machine tools and developments of monitoring and compensation systems for tool deflection. At first, a method to integrate strain sensors within rigid machine tool structures is introduced. Secondly, the prototypical application within commercial milling centres is presented. Finally, two compensation strategies for tool deflection via feed- and position-based control are discussed and experimentally evaluated. © 2018
+AUTHOR KEYWORDS: Machine tool; Milling; Process control
+
+A hybrid approach to integrate machine learning and process mechanics for the prediction of specific cutting energy
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045576545&doi=10.1016%2fj.cirp.2018.03.015&partnerID=40&md5=9a730a43e4398df7711ae3ef57e8a901
+
+ABSTRACT: Specific cutting energy is an important concept because it affects not only surface integrity but also process sustainability. However, the predictive power of traditional analytical models for specific energy is significantly limited by the complex mechanical–thermal coupling in cutting. This paper has proposed a new hybrid approach to integrate data-driven machine learning and process mechanics for the prediction of specific cutting energy. Compared to traditional analytical models, the accuracy of the hybrid approach has been validated in milling of H13 tool steel and Inconel 718. The predictive model is also transferable to other cutting processes. © 2018
+AUTHOR KEYWORDS: Energy; Machine learning; Milling
+
+Mapping customer needs to design parameters in the front end of product design by applying deep learning
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046145683&doi=10.1016%2fj.cirp.2018.04.018&partnerID=40&md5=bec71bcbc1841013fb40ceab8ed65d7a
+
+ABSTRACT: The key to successful product design is better understanding of customer needs (CNs), and efficiently translating CNs into design parameters (DPs). With the recent trend toward the diversification of CNs, the rapid introduction of new products, and shortened lead times, there is a growing need to speed up the mapping from CNs to DPs. By leveraging on product review data extracted e-commerce websites, this paper proposes a deep learning-based approach to improve the effectiveness and efficiency of mapping CNs to DPs. The results show that the proposed approach can meet customer needs with high efficiency. © 2018
+AUTHOR KEYWORDS: Customization; Deep learning; Design
+
+Stochastic modeling of grain wear in geometric physically-based grinding simulations
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046362472&doi=10.1016%2fj.cirp.2018.04.089&partnerID=40&md5=8d0209af4301587bb9607045370c0956
+
+ABSTRACT: Grinding processes can be optimized by simulating the influence of individual grains on process forces and surface topographies. However, the process results are significantly influenced by tool wear. Simulating this effect allows, e.g., the prediction of necessary tool changes when manufacturing large forming tools. Therefore, a new point-based approach for modeling arbitrarily shaped grains in different states of tool wear was developed. Based on a small amount of representative wear investigations, a flexible tool model was defined, which can be used for various tool shapes without further experiments. This model can be applied for grinding processes with varying engagement situations. © 2018
+AUTHOR KEYWORDS: Grinding; Modeling; Wear
+
+Machine learning in tolerancing for additive manufacturing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046743350&doi=10.1016%2fj.cirp.2018.04.119&partnerID=40&md5=79be39af63483122f0719e3f16fe3ffb
+
+ABSTRACT: Design for additive manufacturing has gained extensive research attention in recent years, whereas tolerancing issues aiming at controlling geometric variations remain a major bottleneck in achieving predictive models and realistic simulations. In this paper, a prescriptive deviation modelling method coupled with machine learning techniques is proposed to address the modelling of shape deviations in additive manufacturing. The in-plane geometric deviations are mapped into an established deviation space and Bayesian inference is used to estimate geometric deviations patterns by statistical learning from multiple shapes data. The effectiveness of the proposed approach is demonstrated and discussed through illustrative case studies. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Machine learning; Tolerancing
+
+Novel drill bit with characteristic web shape for high efficiency and accuracy
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047440945&doi=10.1016%2fj.cirp.2018.04.113&partnerID=40&md5=ee4e09e33d38ad42cb1f924ed6e93301
+
+ABSTRACT: This study proposes a novel drill design to reduce the cutting force and improve finished material surfaces. Drilling is a common procedure in manufacturing, and there is an increased demand to shorten the tact time by reducing the cutting force, and by prolonging the tool's life. In this study, a new web shape was proposed based on the proposition to implement an additional cutting edge, complemented by experimental work. The results indicated that the cutting force decreased by more than 20%, and the circularity of the drilled holes was also improved. © 2018
+AUTHOR KEYWORDS: Drilling; Tool geometry; Web thinning
+
+An adaptive self-learning compensation approach for thermal errors on 5-axis machine tools handling an arbitrary set of sample rates
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045699026&doi=10.1016%2fj.cirp.2018.04.001&partnerID=40&md5=bcebd4bc4700419cb1deb2952e422b8f
+
+ABSTRACT: Prediction and compensation of thermal position and orientation errors of a 5-axis machine tool by supervised online machine learning based on information from process-intermittent probing, used to identify and update a thermal autoregressive with exogenous input (ARX) model, is presented. The method of Weighted Least Squares (WLSQ) is introduced for adaptive parameter updates, to handle the diverse sample rates of the measured errors by on-machine probing. The down time for modelling is almost eliminated, by a continuous adaption of the model parameters. The compensation reduces more than 95% of the occurring errors during an experimental investigation of 88 h. © 2018
+AUTHOR KEYWORDS: Adaptive manufacturing; Modelling; Thermal error
+
+Anomalous influence of polarity in sink EDM of titanium alloys
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047618909&doi=10.1016%2fj.cirp.2018.04.069&partnerID=40&md5=daa2c64473c14f9e87c1241defb620ac
+
+ABSTRACT: An anodic tool polarity is generally adopted in sink electrical discharge machining (EDM) to maximize material removal relative to tool wear. Sink EDM of Ti and Ti6Al4V is however atypical in that these materials necessitate a cathodic tool polarity. Adding to the intrigue is γ-TiAl, which machines better under the conventional anodic polarity. This research focused on clarifying the phenomena behind this interesting behavior by investigating removal mechanisms over a range of relevant process conditions. The anomaly is demonstrated to arise from the polarity-dependent nature and extent of TiC formation on the work surface, which significantly affects material removal. © 2018
+AUTHOR KEYWORDS: Electrical discharge machining (EDM); Polarity; Titanium
+
+Order allocation and sequencing with variable degree of uncertainty in aircraft manufacturing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046122701&doi=10.1016%2fj.cirp.2018.04.038&partnerID=40&md5=6c3eaa28a9f30be280cbc1d879e3e029
+
+ABSTRACT: Aircraft manufacturers are challenged with increasing demand requiring customers to place orders months in advance respect to the time aircrafts will be operative. Consequently, customers decide aircraft's size but have additional time to select cabin fittings. Nevertheless, manufacturers must promise a delivery time, regardless real aircraft configuration and resource availability at the production sites. We propose a novel framework for order allocation and sequencing in aircraft manufacturing minimizing the risk for manufacturing costs. Different degrees of uncertainty affecting products, work content and resources are considered as time advances and decisions to be taken change. An industrial application is also presented. © 2018
+AUTHOR KEYWORDS: Manufacturing network; Planning; Uncertainty
+
+Efficient machining of complex-shaped seal slots for turbomachinery
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046863054&doi=10.1016%2fj.cirp.2018.04.099&partnerID=40&md5=7c3ba5e2def72e86b43b7f0b246d5827
+
+ABSTRACT: Complex sealing arrangement in turbomachinery can increase turbine efficiency by reducing leakage of high-pressure cooling flows into the hot gas path. While die-sinking EDM is widely used to machine straight seal slots, electrode preparation and wear make it less efficient for complex shapes. This paper presents research on optimisation of a variant of EDM milling using process control and fluid dynamics simulation to exploit optimal machining conditions. The analysis demonstrates a stable process to machine complex shaped slots by focusing on the key requirements for large-scale turbomachinery component manufacture, namely productivity, surface integrity and process monitoring. © 2018
+AUTHOR KEYWORDS: Electrical discharge machining (EDM); Seal slots; Surface integrity
+
+Measurement and analysis of friction fluctuations in linear guideways
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046353338&doi=10.1016%2fj.cirp.2018.04.010&partnerID=40&md5=27db0f96310388edb0033d0a2be44e3c
+
+ABSTRACT: This paper addresses the analysis of friction fluctuations in linear guideways, which influence positional deviations of machine tool drives. Several measurement experiments evaluate the influence of contact conditions and ball circulation conditions, and fluctuations in the measured friction forces for several guideways were compared. The amplitude spectra for motion wavelengths clarified the reduction of friction fluctuations for different experimental parameters. © 2018
+AUTHOR KEYWORDS: Feed drive; Friction; Guideway
+
+A multi-sensor approach for failure identification during production enabled by parallel data monitoring
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046627663&doi=10.1016%2fj.cirp.2018.04.079&partnerID=40&md5=0abc7f74dcc26ede8912e1322118633c
+
+ABSTRACT: Modern production is becoming more complex and diverse, while requirements for reliability, consistency, sustainability and quality are significantly increasing. For automated inspection and control, sensors with ever-higher accuracy are required. Furthermore, data from multiple sensors have to be simultaneously collected and analyzed in order to identify the state of production and possible failures. Thus, the acquisition of relevant information and data from various sensors is a difficult task. A novel framework is proposed for parallelized multi-sensor monitoring which enables an automatic distribution of complex data processing tasks to multi-core computing hardware. The framework allows the subdivision of complex data processing problems into simple parallel entities. This is demonstrated by using a multi-camera system for failure monitoring of sheet metal parts. As a result, benefits could be achieved in terms of minimum detectable failure sizes and inspection speed, enabling 100% inline inspection of produced parts. © 2018
+AUTHOR KEYWORDS: Failure identification; Multi-sensor; Parallel computing
+
+An active non-contact journal bearing with bi-directional driving capability utilizing coupled resonant mode
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045342073&doi=10.1016%2fj.cirp.2018.03.008&partnerID=40&md5=099d440bba416f53c761ae0a023cc8ed
+
+ABSTRACT: Non-contact journal bearings are conventionally based on pressurized air or magnetic levitation. This paper reports on a new design of an active non-contact journal bearing with bi-direction driving capabilities. It combines the functions of an axis positioner, non-contact journal bearing, and rotary motor utilizing coupled vibration modes. The shaft levitation is achieved by creating a stable air film using near-field acoustic force; while the non-contact rotation is realized by controlling the pressure distribution within the air film using coupled resonant mode. The essential design methodology and theoretical principles are presented along with the performance evaluation of the functional prototypes. © 2018 CIRP
+AUTHOR KEYWORDS: Acoustic levitation; Bearing; Ultrasonic
+
+Sub-zero cooling: A novel strategy for high performance cutting
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046663284&doi=10.1016%2fj.cirp.2018.04.060&partnerID=40&md5=90915608b9dfdbce2703b3383fca0eec
+
+ABSTRACT: In this paper, a novel cooling strategy for high performance cutting is presented. A metalworking fluid, composed of water and polyhydric alcohols is applied at temperatures below 0 °C, but above the temperatures used for cryogenic cutting. This cooling strategy is applied when rough turning Ti-6Al-4V. An analysis of temperatures, forces, tool wear and chip formation is carried out. The results are compared with those obtained using emulsion, CO2, LN2, and dry turning. It can be shown that when tempering the sub-zero metalworking fluid down to −30° C, tool temperatures as well as tool wear are reduced, and favourable chips are produced. © 2018
+AUTHOR KEYWORDS: Cryogenic machining; Temperature; Turning
+
+Adaptive automation and human factors in manufacturing: An experimental assessment for a cognitive approach
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046353296&doi=10.1016%2fj.cirp.2018.04.123&partnerID=40&md5=8a05759afa9dc8650a2b8ea82154209a
+
+ABSTRACT: Despite increasing automation levels and digital solutions, production systems still very much rely on the inescapable contribution of the human factor. The changing relationship between man, the technological system and the organization framework together with the increased complexity result in high risks for workers’ safety and their psychophysical health. Adaptive factory automation and management solutions integrating the man in the loop are proposed in order to achieve production performance, workers safety and well being in a balanced way in varying boundary and exogenous conditions. Particularly, this paper presents new methods and the related recent case studies in different sectors. © 2018
+AUTHOR KEYWORDS: Complexity; Human aspect; Man-machine system
+
+Virtual compensation of deflection errors in ball end milling of flexible blades
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048572521&doi=10.1016%2fj.cirp.2018.03.001&partnerID=40&md5=76255fb48d5ee2fc2ef33dd5d0676470
+
+ABSTRACT: The deflections of highly flexible turbine blades and slender end mills lead to tolerance violations during milling. This paper presents a digital simulation and compensation model for blade machining operations. Stiffness of the blade at the cutting zone is updated as the metal is removed without re-meshing using a computationally efficient sub-structuring technique. The cutter–workpiece engagement is evaluated by considering the deformations of both end mill and the blade under the cutting loads. The estimated deformations are compensated by modifying the tool path coordinates. The model has been experimentally verified in ball-end milling of a blade whose dimensional errors have been reduced from ∼70 μm to ∼10 μm. © 2018 CIRP
+AUTHOR KEYWORDS: Compensation; Deformation; Milling
+
+On the influence of gamma prime upon machining of advanced nickel based superalloy
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045477654&doi=10.1016%2fj.cirp.2018.03.021&partnerID=40&md5=84b9e07c6cea97e1f21d3bc4c56c7fcc
+
+ABSTRACT: Whilst gamma prime (γ′) phase is the strengthening phase in Ni-based superalloys its influence on machining has been seldom investigated. This paper reports for the first time on the effect of γ′ upon machining of Ni-based superalloys when cutting with parameters yielding different cutting temperature intervals which lead to strengthening/softening effects on the workpiece (sub)surface. In-depth XRD, SEM/FIB, EBSD analysis and unique micro-pillar testing in the workpiece superficial layers indicated that with the increase of γ′ fraction the grain plastic deformation significantly decreased, while specific cutting energy can switch from low to high values influenced by the real cutting temperature. © 2018
+AUTHOR KEYWORDS: Gamma prime phase; Machining; Nickel Alloy
+
+Nanoscale surface patterning of diamond utilizing carbon diffusion reaction with a microstructured titanium mold
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046168140&doi=10.1016%2fj.cirp.2018.04.067&partnerID=40&md5=c1ec12f74c5c1ca631121e2d8723c725
+
+ABSTRACT: A novel method was proposed for generating nanoscale surface patterns on single-crystal diamond by carbon diffusion with a microstructured titanium mold under controlled temperature and pressure. The depth, geometry, and surface integrity of the fabricated patterns were investigated by laser micro-Raman spectroscopy and white-light interferometry, and the titanium molds were analyzed by energy dispersive X-ray spectroscopy. The results showed that at specific temperatures and pressures, three-dimensional patterns with a depth of tens of nanometers and sloped/curved walls could be generated on a diamond surface after a few minutes, without causing any surface graphitization. The intensity profile and penetration depth of carbon atoms into the titanium were experimentally measured. © 2018
+AUTHOR KEYWORDS: Diamond; Nanostructure; Surface integrity
+
+Attempts to fabricate micro injection molding tools and assemble molded micro parts on same EDM machine
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046621318&doi=10.1016%2fj.cirp.2018.04.100&partnerID=40&md5=b82b346d8a9eb50bd32a34d6fb5ba541
+
+ABSTRACT: An EDM method for manufacturing plastic micro gear pumps is proposed. Micro gates and cavities for mating gears are machined by EDM in both sides of a stainless steel foil, respectively. The foil is then transferred to an injection molding machine, and fixed to a mold to form mating gears by injection molding. The mating gears formed on the foils are then re-positioned on the EDM machine, released from the foil, and placed in a second foil pre-machined by EDM for the pump housing, using an ejector pin fabricated by reshaping the tool electrode used to machine the two foils. © 2018
+AUTHOR KEYWORDS: Assembly; Electrical discharge machining; Micro injection molding
+
+Modelling of ball screw drives rolling element contact characteristics
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046633110&doi=10.1016%2fj.cirp.2018.04.109&partnerID=40&md5=c3c8cbaeabdcd7d741a0d92814c6dd8a
+
+ABSTRACT: Due to their high efficiency and positioning accuracy, ball screw drives are the most frequently used feed drives in modern machine tools. Important properties, such as the ball screw drives stiffness and friction, depend on the load distribution and the characteristics of each rolling element contact. Detailed knowledge of the system and the contact characteristics is the basis for advanced durability and thermal modelling of ball screw drives. In this paper, a methodology to calculate ball screw drives load distribution and rolling element contact characteristics is introduced. The model is used to analyze the influence of the elastic deformation of nut and spindle on each rolling element contact with regard to the occurring forces, pressures and load angles. Experimentally measured load-displacement characteristics validate the calculation methodology. © 2018
+AUTHOR KEYWORDS: Ball screw; Machine tool; Modelling
+
+Electroplastic effect on AA1050 aluminium alloy formability
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046120791&doi=10.1016%2fj.cirp.2018.04.054&partnerID=40&md5=59239926513638f69071201c715c84c4
+
+ABSTRACT: The electroplastic effect on AA1050 aluminium alloy sheets was investigated with the aim of decoupling the electroplastic and thermal behaviour due to Joule effect in electrical-assisted forming. Different stress triaxiality conditions, obtained using smooth, notched and single shear specimens, were tested applying a range of Direct Current densities to demonstrate that the material formability can be enhanced just thanks to the electroplastic effect. The obtained results were supported by TEM analysis of the dislocation density. © 2018
+AUTHOR KEYWORDS: Electroplasticity; Sheet metal; Thermal effects
+
+Thermomechanical analysis induced by interrupted cutting of Ti6Al4V under several cooling strategies
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045537808&doi=10.1016%2fj.cirp.2018.03.018&partnerID=40&md5=5df11fe27ea5916d9d833b6d02d74a29
+
+ABSTRACT: Cryogenic machining has mainly investigated in continuous cutting. Therefore, there is a lack of knowledge on the application of this technology to interrupted cutting, such as in milling. This study aims to investigate the thermomechanical phenomena in interrupted cutting of Ti6Al4V alloy under cryogenic, flood cooling and dry conditions. Due to the complexity of the thermomechanical analysis in milling, a special designed experimental setup has been developed through interrupted turning tests. This work highlights the influence of cryogenic flow rate and cutting time/non-cutting ratio on tool temperature. The obtained results can be extrapolated to milling operation. © 2018
+AUTHOR KEYWORDS: Cryogenic machining; Interrupted cutting; Thermal effects
+
+Modelling and traceability for computationally-intensive precision engineering and metrology
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050657217&doi=10.1016%2fj.cirp.2018.05.003&partnerID=40&md5=a30a7671191dde938b40490bca16b0e3
+
+ABSTRACT: In contrast to measurements of the dimensions of machined parts realized by machine tools and characterized by CMMs, software results are not fully traceable and certified. Indeed, a computer is not a perfect machine and binary encoding of real numbers leads to rounding of successive intermediate calculations that may lead to globally false results. This is the case for poor implementations and poorly conditioned algorithms. Therefore, accurate geometric modelling and implementations will be detailed. Based on the works of National Metrology Institutes, the problem of software traceability will also be discussed. Some prospects for this complex task will finally be suggested. © 2018
+AUTHOR KEYWORDS: Computational accuracy; Error; Geometric modelling
+
+Determination of friction law in metal forming under oil-lubricated condition
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045698645&doi=10.1016%2fj.cirp.2018.04.027&partnerID=40&md5=d6d4c05e0cdccfca9f23a2e14d610973
+
+ABSTRACT: Frictional behaviour under oil-lubricated conditions is studied in compression of a steel sheet by a DLC coated tool. The average frictional stress increases linearly with the average pressure first, then decreases and finally increases linearly again. This tendency is not affected by the lubricant viscosity, lubricant thickness and the stress state of the specimen. It is concluded that the decrease of the frictional stress with increasing average pressure is due to the decrease of the ratio of real contact area, which is caused by the lubricant pressure in closed pools. A new law of friction under oil-lubricated condition is proposed. © 2018
+AUTHOR KEYWORDS: Forming; Lubrication mechanism; Tribology
+
+Modelling and compensation of dominant thermally induced geometric errors using rotary axes’ power consumption
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047533820&doi=10.1016%2fj.cirp.2018.04.080&partnerID=40&md5=a9a10bdfd8bb6db3a28db558f07b5a67
+
+ABSTRACT: Thermally induced volumetric errors due to rotary axes’ activity are measured on a five-axis machine tool using a non-contact R-test device with a four-ball uncalibrated artefact and an Invar reference length. The gathered volumetric data allow to estimate intra- and inter-axis machine errors as well as the table expansion via the estimated balls position. Dominant thermal effects are modelled as functions of the measured rotary axes drive power consumption by the superposition of single-input single-output first order transfer functions. The efficiency of the model is validated with different motion sequences and by the compensated machining of a test piece. © 2018
+AUTHOR KEYWORDS: Compensation; Machine tool; Thermal error
+
+A scalable predictive model and validation for residual stress and distortion in selective laser melting
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046731562&doi=10.1016%2fj.cirp.2018.04.105&partnerID=40&md5=d77e8e526a98fd1aa910a796bd17fdb0
+
+ABSTRACT: The unique thermal cycle of rapid melting, solidification, and melt-back in selective laser melting (SLM) induces steep residual stress gradients which lead to part distortion. However, it is extremely difficult to predict residual stress in SLM due to complex multi-physics phenomena and scale-up of millions of laser scans. This paper has developed a geometry scalable predictive model across microscale laser scan, mesoscale layer hatch, and macroscale part build-up to fast predict residual stress in different scanning strategies. The predictions were validated using the L-shaped bar and bridge structures. The geometry scalability law provides an effective tool for optimizing part designs. © 2018 CIRP
+AUTHOR KEYWORDS: Modelling; Residual stress; Selective laser melting
+
+A novel work holding method for hard turning using the shoe-centerless concept
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045713641&doi=10.1016%2fj.cirp.2018.03.024&partnerID=40&md5=b5cf59b72d3ac529d34bdd18e6bc882b
+
+ABSTRACT: The widespread use of hard turning processes in industry has been facilitated by efficient work holding methods. In this paper, a novel application of the shoe-centerless work holding method is proposed for hard turning. Since changes in cutting forces during hard turning affect force balance, rotational instability can occur with shoe-centerless work holding. This paper describes the effect of changes in cutting forces due to tool wear on work rotational stability during shoe-centerless hard turning. It also presents guidelines to determine the optimum shoe setup angles for various hard turning process conditions to ensure work rotational stability and geometrical rounding stability. © 2018
+AUTHOR KEYWORDS: Finishing; Hard machining; Shoe-centerless hard turning
+
+Necking condition of layers in clad sheets during rolling
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047327745&doi=10.1016%2fj.cirp.2018.04.056&partnerID=40&md5=619912f22f5cbbea5946dc9dab7134bb
+
+ABSTRACT: In rolling of clad sheets, layers often show periodical necking in the rolling direction. Mechanism of the plastic instability has not been understood sufficiently so that commercially available combinations of layers are limited. First, effects of rolling conditions on the necking were investigated through finite element analysis of some ideal rolling cases. Meanwhile, multi-pass cold rolling of three type of sandwich sheets was conducted to reveal necking evolutions experimentally. Based on the FE and the experimental results, a plane-strain compression model was proposed to simulate the experiments. The predictions based on change in strain energies show good agreement with the experiment. © 2018
+AUTHOR KEYWORDS: Defect; Instability; Rolling
+
+Smart, simulation-based resource sharing in federated production networks
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046654839&doi=10.1016%2fj.cirp.2018.04.046&partnerID=40&md5=3ed2e7bdbdc26468f7d7e6b57c6fe9fa
+
+ABSTRACT: The rise of Industry 4.0 and the convergence of the digital and physical worlds increasingly, where not radically, transforms the production networks. The paper presents the preliminary results of a distributed collaboration framework developed with the aim to facilitate the cooperation of various production sites. The objective is to manage a network of manufacturers who can dynamically re-configure and share their resources within a pre-registered community and analyze how the cardinality of the federation influences both the cooperation and the global and local production KPI-s. The novelty of the concept is the combination of the agent-based control, the matching algorithm combined with the detailed digital simulation of the distributed production systems and the collaborative IT platform. © 2018
+AUTHOR KEYWORDS: Agent-based manufacturing; Network coordination; Simulation
+
+Influence of Complementary Machining on fatigue strength of AISI 4140
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046694376&doi=10.1016%2fj.cirp.2018.04.103&partnerID=40&md5=2fa332806a2b64e5ed100e2a1a5e839e
+
+ABSTRACT: Mechanical surface treatment is an additional process step in the process chain of part manufacturing to enhance performance but increasing production time and costs. Hence, different hybrid processes have been developed including Complementary Machining, which does not need a complex tool. Investigations of orthogonal Complementary Machining indicates that optimized cutting edge microgeometries can induce useful surface layer states like nanocrystalline surfaces whilst minimizing tool wear. This paper analyzes the resulting surface layer states (roughness, residual stresses, grain refinement) and their influence on fatigue strength after turning and Complementary Machining for AISI4140q&t. Implementing these analyses a deeper process understanding is accomplished. © 2018
+AUTHOR KEYWORDS: Complementary Machining; Fatigue; Surface modification
+
+New method for stress determination based on digital image correlation data
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047068136&doi=10.1016%2fj.cirp.2018.04.026&partnerID=40&md5=4f8d866bad5ef2d8b12ef1797405ec26
+
+ABSTRACT: Accurate material characterisation of anisotropic yielding behaviour for modern sheet metal requires the testing under multiaxial stress conditions like in the shear test or plane strain test. While most approaches include time-consuming finite element simulations for evaluation of inhomogeneous stress distributions, this paper shows a new method to determine stress data based directly on digital image correlation data. This accurate and efficient semi-analytical method can be used in direct stress analysis or inverse material parameter identification schemes as well. The methodology will be described and exemplarily results of the plane strain test and the shear test will be discussed. © 2018
+AUTHOR KEYWORDS: Forming; Sheet metal; Stress data
+
+Cost-oriented planning of equipment for selective laser melting (SLM) in production lines
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046167280&doi=10.1016%2fj.cirp.2018.04.032&partnerID=40&md5=7cadbfbd19cb3f536385345154558819
+
+ABSTRACT: Equipment for selective laser melting (SLM) has mainly been developed for applications in rapid prototyping. This paper provides a methodology for a cost-oriented optimisation and planning of SLM equipment for series production lines. The approach thus supports the transition to more productive and cost-efficient equipment. The paper presents a two-step methodology: at first, setup time is reduced using heuristic rules based on the activity node network plan. Afterwards, the build-up time is optimised by cost and performance parameters like laser power and build chamber size. Using the presented methodology rules for a cost-oriented SLM-equipment can be derived. © 2018 CIRP
+AUTHOR KEYWORDS: Additive manufacturing; Cost; Planning
+
+An information and simulation framework for increased quality in welded components
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047380653&doi=10.1016%2fj.cirp.2018.04.118&partnerID=40&md5=959274aa78d4e96ef928f528c109e2f3
+
+ABSTRACT: The recent trend toward using simulation models with real-time data as digital twins is rapidly increasing in industry. In this paper, a digital framework supporting real-time geometrical quality control of welded components, is presented. The concept is based on a structured process model for all operations included in typical welding, strategies for selective assembly, automatic adjustment of fixtures and optimization of weld sequence. The concept utilizes recently developed algorithms for fast welding simulation and in-line scanning to be used in the optimization loop of an automated welding station—a digital twin for a welding cell. © 2018
+AUTHOR KEYWORDS: Quality assurance; Simulation; Welding
+
+Modelling of the combined microstructural and cutting edge effects in ultraprecision machining
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045710767&doi=10.1016%2fj.cirp.2018.03.019&partnerID=40&md5=562ed897d7ce10d39b97c1fc1d0d7993
+
+ABSTRACT: The mechanics of ultraprecision machining (UPM) is known to be affected by materials microstructures and cutting tool geometries when cutting magnitudes are reduced to micron-scale. To model the combined effects, a flow stress model that correlates the grain size and chip thickness to the relative tool sharpness is first proposed. Subsequently a novel behavioural chip formation model is developed to distinguish the transitions in chip formation regimes due to the microstructural and cutting edge effects. This led to the discovery of a unique finishing regime where surface roughness is improved by 61.7%, 63.9% and 86.4% for Al-alloy, Mg-alloy and Cu-alloy respectively. © 2018
+AUTHOR KEYWORDS: Cutting edge; Finishing; Micro structure
+
+Role of manufacturing towards achieving circular economy: The steel case
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046160632&doi=10.1016%2fj.cirp.2018.04.049&partnerID=40&md5=727c31fe4b71873ce7c1bf83015c37b6
+
+ABSTRACT: Circular economy (CE) has been promoted worldwide as a strategy to reduce material use and to increase the material use efficiency by closing material loops at the societal level. The core concept of CE is to improve the circularity of material use through turning materials at the end of their service life into resources for others, however, there is very little information about the role of manufacturing in achieving CE. Using the concepts of dynamic material flow analysis and stock dynamics, this paper proposes a methodological approach to help understand the role of manufacturing in achieving CE. A number of other strategies such as material efficiency in conjunction with CE are also tested using the case of global steel use to draw conclusions. © 2018
+AUTHOR KEYWORDS: Circular economy; Manufacturing; Sustainable development
+
+Mixed-initiative assembly planning combining geometric reasoning and constrained optimization
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047424010&doi=10.1016%2fj.cirp.2018.04.034&partnerID=40&md5=2286a2790ac16b9349d07cddecbb7b9f
+
+ABSTRACT: The paper presents a generic workflow of semi-automated and optimized process planning in mechanical assembly. It supports the production engineer throughout the entire planning process, departing from part analysis via task sequencing up to the generation of detailed work instructions. Main stages such as part analysis, macro planning and various aspects of micro planning are presented along with a feedback mechanism which warrants executability of plans using the available technological and human resources. Emphasis is set on the essential role of geometric reasoning and its combined use with constrained optimization. The workflow is demonstrated on industrial case studies. © 2018
+AUTHOR KEYWORDS: Assembly; Optimization; Planning
+
+A new joining by forming process to produce lap joints in metal sheets
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046352062&doi=10.1016%2fj.cirp.2018.04.121&partnerID=40&md5=5218992f726ec8edc2ccfc9721019a13
+
+ABSTRACT: This paper proposes a new joining by forming process to produce lap joints in metal sheets. The process combines partial cutting and bending with mechanical interlocking by sheet-bulk compression of tabs in the direction perpendicular to thickness. The lap joints are flat with all the plastically deforming material contained within the thickness of the two sheets partially placed over one another. The design of the lap joints is performed by a simple analytical model and the overall concept is validated by means of numerical modelling and experimentation. Destructive shear tests demonstrate the effectiveness and performance of the new proposed lap joints. © 2018
+AUTHOR KEYWORDS: Forming; Joining; Sheet metal
+
+Resilient architecture for cyber-physical production systems
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047300837&doi=10.1016%2fj.cirp.2018.04.021&partnerID=40&md5=797fd3e0a1f9bbf2f3351d69059a35a1
+
+ABSTRACT: Production systems are a typical example of cyber-physical systems (CPS) in which a variety of machines, actuators, sensors and control systems are interwoven to produce products as efficiently as possible. Even though sophisticated condition monitoring systems are deployed, stoppage, breaks, and other types of failures still happen. To avoid catastrophic operational disruptions, desirably the production system itself resiliently and autonomously responses to failures. This paper reports a design method for a resilient architecture of a cyber-physical production system that can deal with disturbances and failures in a discrete-event process. A physical demonstrator was built to demonstrate its reconfiguration capabilities. © 2018
+AUTHOR KEYWORDS: Maintenance; Reconfiguration; System architecture
+
+Large reduction die-less mandrel drawing of magnesium alloy micro-tubes
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046656202&doi=10.1016%2fj.cirp.2018.04.101&partnerID=40&md5=3a820afd612cad632debf5028aa30ecf
+
+ABSTRACT: Die-less drawing using wire mandrel was proposed aiming to develop the process to manufacture magnesium (Mg) alloy micro-tubes. The ratio of thickness to outer diameter of drawn tubes was controlled by changing drawing speed and feeding speed referring to the formula derived from “volume constancy principle”. The results were as follows. The attainable reduction limit was enhanced by raising heating temperature of mother tubes and the maximum cross-sectional reduction of 58.3% was obtained through a single pass drawing. Mg alloy micro-tubes with outer diameter of 3.35 mm and wall-thickness of 0.69 mm were fabricated through the optimized multi-pass drawing. Mg alloy micro-tubes developed in this study can be used for medical, medicinal, sanitary and chemical appliances. © 2018
+AUTHOR KEYWORDS: Die-less drawing; Forming; Magnesium
+
+Trend-specific clustering for micro mass production of linked parts
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046827100&doi=10.1016%2fj.cirp.2018.04.017&partnerID=40&md5=ed78d603c16e6c530380e2d6d0011888
+
+ABSTRACT: In micro production, small tolerances, as well as size effects increase the requirement for a fast, precise, and reliable methodology that enhances the output of assemblies. In contrast to conventional approaches, a widening of the tolerance field enables an overall improvement of the output of a process chain while assuring functionality of parts. Therefore, the consideration of trends for building sections is essential for increasing the outcome by identifying sections that can be matched. This paper presents the Linked Parts Clustering Algorithm for the identification of trend-specific clusters in linked parts and demonstrates the area of application. © 2018 CIRP
+AUTHOR KEYWORDS: Assembly; Clustering; Micro forming
+
+A stitching linear-scan method for roundness measurement of small cylinders
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045481826&doi=10.1016%2fj.cirp.2018.04.009&partnerID=40&md5=932b91f3e37ee2df41d87b0633ccd6fe
+
+ABSTRACT: This paper presents a stitching linear-scan method for roundness measurement of small cylinders. Differing from the conventional rotary-scan method by a roundness measuring instrument which suffers from challenges in accurately aligning a cylinder with the rotational datum axis when the cylinder has a small dimension, the stitching linear-scan method, by which the roundness profile of a small cylinder is obtained by stitching a series of arc profiles around the cylinder circumference linearly scanned by a surface form stylus profilometer, makes it easy in alignment of the small cylinder for roundness measurement. Experiments are presented to demonstrate the stitching linear-scan method. © 2018
+AUTHOR KEYWORDS: Measurement; Profile; Roundness
+
+Friction coefficients in cold forging: A global perspective
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046687226&doi=10.1016%2fj.cirp.2018.04.106&partnerID=40&md5=70f8660cfd3f6deeb2d02b2441c44052
+
+ABSTRACT: Worldwide, at least twenty different tribological tests have been proposed for the empirical determination of friction coefficients in cold forging processes. Due to the varying test setups, means of measurement, and level of abstraction, the comparability of the outcomes is, however, disputable. Within this work, six established test principles are compared using identical tribological systems. Large differences between the empirically determined friction coefficients are observed but can be explained under consideration of the respective tribological loads. Additional investigations of an extrusion process reveal that friction models also have to take into account the varying local thickness of the lubricant film. © 2018
+AUTHOR KEYWORDS: Cold forming; Friction; Tribology
+
+Modeling study of the hydrodynamic arc breaking mechanism in BEAM
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047818561&doi=10.1016%2fj.cirp.2018.04.068&partnerID=40&md5=2f2df0eda86e898383c3e67acd856f34
+
+ABSTRACT: Blasting erosion arc machining (BEAM) utilizes thermal effect of the arc rather than spark to remove workpiece material. This paper investigates the expansion and distortion rules of the discharge channel based on the analysis of high speed photography and the micrographs of craters to study mechanism of BEAM. Based on these investigations, a thermal finite element model is developed. Then the temperature distributions in workpieces, both with and without flushing, are obtained. The comparisons of the obtained temperature distributions explain the formation of the trailing crater and the effect of hydrodynamic arc breaking mechanism on the efficiency of BEAM. © 2018
+AUTHOR KEYWORDS: BEAM discharge model; Blasting erosion arc machining (BEAM); Hydrodynamic arc breaking mechanism (HABM)
+
+Deep learning-based human motion recognition for predictive context-aware human-robot collaboration
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046730213&doi=10.1016%2fj.cirp.2018.04.066&partnerID=40&md5=468cd8ef02fa7e5aed48ef15410abe0f
+
+ABSTRACT: Timely context awareness is key to improving operation efficiency and safety in human-robot collaboration (HRC) for intelligent manufacturing. Visual observation of human workers’ motion provides informative clues about the specific tasks to be performed, thus can be explored for establishing accurate and reliable context awareness. Towards this goal, this paper investigates deep learning as a data driven technique for continuous human motion analysis and future HRC needs prediction, leading to improved robot planning and control in accomplishing a shared task. A case study in engine assembly is carried out to validate the feasibility of the proposed method. © 2018
+AUTHOR KEYWORDS: Machine learning; Motion; Predictive model
+
+Tolerancing: Managing uncertainty from conceptual design to final product
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050397656&doi=10.1016%2fj.cirp.2018.05.009&partnerID=40&md5=d5b340fbf2ac3290fe1590ef06d7e764
+
+ABSTRACT: Variability is unavoidable in the realization of products. While design must specify ideal geometry, it shall also describe limits of variability (tolerances) that must be met in order to maintain proper product function. Although tolerancing is a mature field, new manufacturing processes and design methodologies are creating new avenues of research, and modelling standards must also evolve to support these processes. In addition, the study of uncertainty has produced widely-accepted methods of quantifying variability, and modern tolerancing tools should support these methods. The challenges introduced by new processes and design methodologies continue to make tolerancing research a fertile and productive area. © 2018
+AUTHOR KEYWORDS: Design; Tolerancing; Uncertainty
+
+Value creation in production: Reconsideration from interdisciplinary approaches
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050501068&doi=10.1016%2fj.cirp.2018.05.002&partnerID=40&md5=001fd8681e6d094c50a662a39c63036e
+
+ABSTRACT: This paper presents reconsideration of value creation in production from various aspects of value viewpoints in several disciplines such as production engineering, social sciences, and human sciences. The focal point of investigations is value co-creation by the provision of products and services in and for society. In the past, some methods of social sciences and others proved to be useful in making production more efficient. At present, such methods must help to realise value creation. In fact, production must become more effective in response to human needs in social, economic, and environmental dimensions. Along with the theoretical apparatus, this paper presents some case studies indicating the importance of value creation in production, followed by future perspectives of value co-creation in production. © 2018
+AUTHOR KEYWORDS: Emergent synthesis; Production; Value creation
+
+Nanometer-scale characteristics of polycrystalline YAG ceramic polishing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046359827&doi=10.1016%2fj.cirp.2018.04.090&partnerID=40&md5=d37ac5ffe2c8dbc3b6f010b65d61a06c
+
+ABSTRACT: Polycrystalline yttrium aluminum garnet (YAG) ceramics used as laser gain media require nanometer-scale surface geometries to minimize light scattering. Generally, uneven material removal between grains and excessive material removal at the grain boundaries retards smoothing of the ceramic surfaces. This paper describes the effects of the mechanical properties and polishing tool structures on the tool contact against the target surface during polishing. This, in addition to the abrasive type and size, influences the polishing characteristics, especially the material removal at the grain boundaries, the grain enhancement, the grain dislodgement, and the resulting nanometer-scale geometries of the polished surfaces. © 2018
+AUTHOR KEYWORDS: Ceramic; Material removal; Polishing
+
+Performance of a new piezoceramic thick film sensor for measurement and control of cutting forces during milling
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046354935&doi=10.1016%2fj.cirp.2018.04.115&partnerID=40&md5=ca77ea810dcf32f9beb79a21d2e0d5c8
+
+ABSTRACT: Process monitoring and controlling with detailed real-time information such as the cutting force is required for improving the performance of milling processes. This paper presents a novel system for measuring the cutting force in the direct vicinity of the indexable insert. The outlined concept makes use of piezoelectric thick film sensors mounted directly below the insert. The unique design and features of the new sensor enable accurate and continuous force measurements as well as the indication of wear. The results of the experimental investigations are presented and compared to results of a conventional dynamometer. © 2018
+AUTHOR KEYWORDS: Milling; Sensor; Tool
+
+Composite materials parts manufacturing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050457403&doi=10.1016%2fj.cirp.2018.05.005&partnerID=40&md5=6f2d72d33bedbeaab56c3a9ea3ada4cb
+
+ABSTRACT: Composite materials parts manufacturing is based on the interactions of simultaneous as well as consecutive process steps. These influence the composite part properties and economical production. A wide range of possible composite materials and processing technologies necessitate a holistic view of the product life cycle to ensure the best possible economic and ecological outcome. Current studies on new manufacturing and machining processes aim for higher productivity and machinability, whereas new quality control approaches are enhancing the desired product quality. Furthermore, recent research addressing joining concepts and recycling methods has a huge impact on competitiveness and sustainability. Focusing on latest academic research approaches and current industrial application fields, this paper gives an overview of various process steps in the overall product life cycle of composite materials parts manufacturing. © 2018
+AUTHOR KEYWORDS: Composite; Overall process chain; Processing
+
+Direct laser assisted machining with a sapphire tool for bulk metallic glass
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046166842&doi=10.1016%2fj.cirp.2018.04.070&partnerID=40&md5=525b6a159c6bae83c8c5a0262656d57e
+
+ABSTRACT: Bulk metallic glasses (BMGs) are amorphous metallic alloys with high strength and hardness. This paper discusses the machining process of Zr-BMG using a transparent sapphire tool with direct laser assistance. The laser beam passes through the tool and directly heats the workpiece material to improve its machinability. Micro textures were generated on the tool rake face to facilitate chip formation. Reduced cutting forces and improved surface finish were observed with direct laser assistance. The effects of machining speed and laser power on the material deformation mechanism were investigated. A finite element model was developed to investigate the cutting forces. © 2018
+AUTHOR KEYWORDS: Bulk metallic glass; Laser; Sapphire; Surface modification
+
+Development of a directly-driven thread whirling unit with advanced tool materials for mass-production of implantable medical parts
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045704472&doi=10.1016%2fj.cirp.2018.03.016&partnerID=40&md5=af46e9a6fd41fda50995055222786239
+
+ABSTRACT: Medical screws are a common mass-produced implantable medical component made of Titanium. To machine the threads of these types of components, thread whirling with carbide tools is typically used. However, tool wear and low cutting speed limit the productivity and increase the manufacturing cost of such medical parts. In this study, a direct motor driven thread whirling unit for an advanced Swiss-type CNC lathe was developed and it was used with advanced tool materials such as low binder content Cubic boron nitride (CBN) and Polycrystalline diamond (PCD) to find a cost-effective and more productive alternative to carbide tools. © 2018
+AUTHOR KEYWORDS: Cubic boron nitride (CBN); Diamond tool; Medical part machining
+
+Novel magneto-rheological finishing process of KDP crystal by controlling fluid-crystal temperature difference to restrain deliquescence
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046163213&doi=10.1016%2fj.cirp.2018.04.058&partnerID=40&md5=ea4d3ca7c7b58fa8ca1ad7f87ff876a6
+
+ABSTRACT: To restrain surface deliquescence which directly influences surface quality and machining efficiency of polishing KDP crystal, this paper presents a novel water-dissolution magneto-rheological finishing process by controlling fluid-crystal temperature difference. Deliquescence mechanism is revealed from the perspective of deliquescence circle. Micro-condensation is proved as the main cause of deliquescence, which is restrained by fluid-crystal synergistic heating. Case test on KDP crystal verified that the humidity threshold of anti-deliquescence rises from 40% to 80%, which has realized synchronous improvements of machining efficiency as well as surface roughness and laser induced threshold on KDP crystal during the process of water-dissolution magneto-rheological finishing. © 2018
+AUTHOR KEYWORDS: Magneto-rheological finishing; Surface; Temperature control
+
+Segmentation-free geometrical verification of additively manufactured components by x-ray computed tomography
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045708832&doi=10.1016%2fj.cirp.2018.04.011&partnerID=40&md5=d8557520582db4dd4f20751c2fefb87d
+
+ABSTRACT: X-ray computed tomography sets the stage for geometrical verification of additive manufacturing components, thanks to its ability in measuring complex shapes. Being a volume measurement technique, usually segmentation/thresholding is adopted to turn volume to coordinate measurement enabling the use of well-known computational algorithms: this transformation significantly contributes to measurement uncertainty. We propose a segmentation-free approach for geometrical verification of additively manufactured components based on “mutual information” an information theory concept adopted for the comparison of inhomogeneous data. This is part of a comprehensive model for the design, (additive) manufacturing, and verification of products by an “enriched voxel representation”. © 2018
+AUTHOR KEYWORDS: 3D x-ray computed tomography; Additive manufacturing; Inspection
+
+Stability analysis of modulated tool path turning
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045339569&doi=10.1016%2fj.cirp.2018.03.010&partnerID=40&md5=ce338ce65d8a6e231f5bb714d1bbea69
+
+ABSTRACT: A new periodic sampling-based method for identifying the stability of modulated tool path turning (MTP) is presented. A metric is defined that provides a numerical value to indicate stability; it is nominally zero for forced vibration and large for self-excited vibration. Tests were performed using ASM 6061-T6 aluminum tubes with varying wall thicknesses to control stability, where MTP was applied to create discrete chips by superimposing sinusoidal oscillation in the feed direction. Results are compared for the new periodic sampling metric and the traditional frequency-domain approach, where the frequency spectrum is analyzed to identify the chatter frequency (should it exist). © 2018
+AUTHOR KEYWORDS: Chatter; Dynamics; Turning
+
+Damage-free highly efficient polishing of single-crystal diamond wafer by plasma-assisted polishing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046353961&doi=10.1016%2fj.cirp.2018.04.074&partnerID=40&md5=7f3b577699278289f28a09f0d32d62e8
+
+ABSTRACT: Single-crystal diamond (SCD) is considered to be an ideal material for next-generation power devices. Plasma-assisted polishing (PAP) without using an abrasive was applied to polish SCD fabricated by chemical vapor deposition. Argon-based plasma containing water vapour was used in the PAP to modify the surface of polishing plate and SCD (100), and SCD was polished under a polishing pressure ranging from 10 to 52.6 kPa. Raman spectroscopy measurement showed that there was no residual stress on the polished SCD surface, and a polishing rate of 2.1 μm/h and a surface roughness of 0.13 nm Sq were obtained. © 2018
+AUTHOR KEYWORDS: Polishing; Single crystal; Surface integrity
+
+Increased productivity in centerless grinding using inertial active dampers
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046869370&doi=10.1016%2fj.cirp.2018.04.093&partnerID=40&md5=e5a90f2313166359704d34c99543df8b
+
+ABSTRACT: Regenerative chatter during centerless grinding processes is one of the main factors limiting the productivity. This paper presents a novel chatter suppression technique for centerless grinding using an active damping system based on inertial actuators. Dynamic characterisation of the machine with and without active damping is used first to compute theoretical stability maps. The active nature of the system allows stabilising a wide working range of infeed operations. Finally, experimental results validate the predicted increase of stable grinding area and verify that the technology is very effective for avoiding chatter, ensuring workpiece quality and increasing process productivity. © 2018
+AUTHOR KEYWORDS: Active damping; Centerless Grinding; Chatter
+
+Workplace analysis and design using virtual reality techniques
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046698662&doi=10.1016%2fj.cirp.2018.04.120&partnerID=40&md5=b0cb942cf6f42257efb2ef57a0839294
+
+ABSTRACT: Workplace layout affects worker wellbeing and is linked to productivity, physical fatigue and production costs. So far, workplace optimization is based on observational methods and software simulations which may not be insightful, while full size prototypes signify high costs and implementation time. This work proposes a method to analyse and enhance industrial workplaces using immersive virtual reality. The system allows the tracking of multiple users virtually performing assembly tasks inside a CAVE system and the visualization of KPIs (e.g. completion time, traveled distance, ergonomics) for supporting decision making by production engineers. A case study is used to demonstrate the approach. © 2018
+AUTHOR KEYWORDS: Assembly; Design; Virtual reality
+
+Demanufacturing photovoltaic panels: Comparison of end-of-life treatment strategies for improved resource recovery
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046371088&doi=10.1016%2fj.cirp.2018.04.053&partnerID=40&md5=30171d5f472a5e562aa63005847a1a9d
+
+ABSTRACT: Predictive models to forecast the volume and material composition of end-of-life photovoltaic (PV) panels indicate that substantial material resources can potentially be recovered from silicon based PV panels in the next decades. The technical feasibility of selective mechanical delamination through milling and cleaving was experimentally studied. The achievable material recovery results are compared to current practices in end-of-life treatment, demonstrating a substantial potential to improve resource preservation. A comparative LCA study allows to conclude that a well-designed demanufacturing strategy based on selective delamination can substantially reduce the environmental impact associated with end-of-life processing of PV panels. The improved silver recovery offers perspectives for the economic viability of the described demanufacturing strategy. © 2018
+AUTHOR KEYWORDS: Optimization; Photovoltaic panels; Recycling
+
+Deep hole drilling
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049644878&doi=10.1016%2fj.cirp.2018.05.007&partnerID=40&md5=3202bf9786bad12a41117c76f351e8eb
+
+ABSTRACT: Deep hole drilling processes, which differ significantly from conventional drilling processes, are relevant for a lot of different applications where holes with high length-to-diameter-ratios and very good qualities are necessary. This paper gives an overview of different methods, which are established to produce bore holes with demanding aspects related to diameter, length-to-diameter-ratio, bore hole quality, workpiece materials and complex internal contours. Beside the detailed explanation of the deep hole drilling methods and tools also the fundamentals of the deep hole drilling principle are explained and completely new developed figures and tables summarize the state of the art. In addition for the most important areas the latest results of process and tool development are included. © 2018
+AUTHOR KEYWORDS: Deep hole drilling; Machining; Surface
+
+Innovative measurement technique to determine equibiaxial flow curves of sheet metals using a modified Nakajima test
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046637630&doi=10.1016%2fj.cirp.2018.04.094&partnerID=40&md5=730d32164fc3d2f6631c33cea287a2bf
+
+ABSTRACT: Since an inhomogeneous punch pressure distribution occurs in the Nakajima test, equibiaxial flow curves have been determined solely in the hydraulic bulge test so far. By using an innovative measurement technique, it is possible to determine both the punch pressure and strains that occur in the Nakajima test. In this paper, a calibration and realization strategy is presented that allows to determine accurate equibiaxial flow curves for sheet metal materials using a modified Nakajima test without inverse parameter identification. This setup is suitable to substitute the expensive and time-consuming hydraulic bulge test by a simple and common experimental setup. © 2018
+AUTHOR KEYWORDS: Hardening; Identification; Material
+
+Real-time teaming of multiple reconfigurable manufacturing systems
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048312725&doi=10.1016%2fj.cirp.2018.04.051&partnerID=40&md5=7dabf624b793e31ecab22c73adeb9e89
+
+ABSTRACT: Personalized production poses new challenges on reconfigurable manufacturing systems due to a dramatic increase in the variety and stochasticity of the manufacturing demand. This paper proposes a connected autonomous reconfigurable manufacturing system with a decentralized management of individual autonomous lines that can be reconfigured for diverse manufacturing tasks via manufacturing modules. We present a mathematical approach for distributing the stochastic demands and exchanging machines or modules among lines (which are groups of machines) as a bidding process, and for adaptively configuring these lines and machines for the resulting shared demand under a limited inventory of configurable components. © 2018 CIRP
+AUTHOR KEYWORDS: Decision making; Optimization; Reconfigurable manufacturing system
+
+Product features characterization and customers’ preferences prediction based on purchasing data
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046170650&doi=10.1016%2fj.cirp.2018.04.020&partnerID=40&md5=8d9fa8cab3272bd7180f736b2fb4912b
+
+ABSTRACT: Big data of online product purchases is an emerging source for obtaining customers’ preferences of product features for new product development. This paper proposes a framework and associated method for product features characterization and customers’ preference prediction based on online product purchase data. Specifications and components of products are firstly analyzed and the relationships between product specifications and components are then established for features characterization. The customers preferred specifications, features and their combinations are predicted for development of new products. The features characterization and customers’ preferences prediction of toy cars were used as an example of illustrating the proposed method. © 2018
+AUTHOR KEYWORDS: Big data; Design; Product development
+
+Study of stress intensity factor on the anisotropic machining behavior of single crystal sapphire
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046687123&doi=10.1016%2fj.cirp.2018.04.114&partnerID=40&md5=649833f90ed63365444d4cc2b99d9654
+
+ABSTRACT: The ductile–brittle transition was investigated based on material crystallography and stress intensity factor on the four distinctive planes of sapphire. Cutting forces were analyzed to explain the anisotropic transition characteristics. The projected stress on the objective plane at the transition point was estimated from the critical stress intensity factor of the corresponding crystal plane. Per cutting direction, the effect of crystal planes on the machinability was discussed, and the estimated stress was compared with measured values. Experimental results showed that the anisotropic machinability can be predicted in terms of crystal orientation and the critical stress intensity factor. © 2018
+AUTHOR KEYWORDS: Brittleness; Machinability; Sapphire
+
+Integrated multilateration for machine tool automatic verification
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045557022&doi=10.1016%2fj.cirp.2018.04.008&partnerID=40&md5=25312a8c77a2a4b93b3945f9e4c2e6f1
+
+ABSTRACT: Multilateration based approaches are widely accepted as the most adequate solution for geometric characterisation of medium and large machine tools. However, its application, either in a sequential mode or in a simultaneous approach, leads to industrial limitations such as total time consumption or thermal drift that prevent an automatic calibration. This work presents an integrated multilateration verification procedure where a tracking interferometer is directly attached to the manufacturing system spindle as a tool, which tackles several of the mentioned limitations. Results of both simulations and experimental tests show that levels of uncertainty in the range of micrometres can be guaranteed. © 2018
+AUTHOR KEYWORDS: Calibration; Machine tool; Multilateration
+
+Effects of cladding path on workpiece geometry and impact toughness in Directed Energy Deposition of 316L stainless steel
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046370316&doi=10.1016%2fj.cirp.2018.04.087&partnerID=40&md5=8798df12e45567f3b3ce66a362ec713a
+
+ABSTRACT: The cladding path in Directed Energy Deposition (DED) influences the workpiece quality. An inappropriate cladding path easily deteriorates the geometric accuracy at the workpiece corner. This study investigated the influence of the cladding path on the workpiece quality of 316L stainless steel. The corner geometries for different cladding paths were compared. Charpy impact tests were conducted to investigate the impact toughness of the workpiece. The impact toughness of 316L manufactured by DED is comparable to the conventional material. The simple one directional path decreased the impact toughness by approximately 20% compared to the toughness for bidirectional paths. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Laser; Stainless steel
+
+Anchoring and chemical-bonding effects of anodic alumina microstructure on adhesion strength
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046116781&doi=10.1016%2fj.cirp.2018.04.044&partnerID=40&md5=f7b996a369892614dcdaf6b93f333c00
+
+ABSTRACT: Adhesion is becoming increasingly important because not only steels but also aluminum and resin materials are increasingly adopted in transporter structures. However, how the microstructure and surface energy at the adhesion boundary affect the adhesion strength has not been quantitatively clarified. In this study, the microstructure and surface energy of the structure surface are controlled by anodization process and plasma treatment, respectively, and their effects on the anchoring and chemical bonding are systematically investigated by performing peel tests, microscopy of the fracture boundary, and simulation of the stress around the boundary of the microstructure. © 2018
+AUTHOR KEYWORDS: Aluminum; Bonding; Microstructure
+
+Machine learning approach based on fractal analysis for optimal tool life exploitation in CFRP composite drilling for aeronautical assembly
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045719487&doi=10.1016%2fj.cirp.2018.04.035&partnerID=40&md5=5c625a0cde5f1d7fb1396db2dd10a621
+
+ABSTRACT: A machine learning approach based on fractal analysis is developed for optimal tool life exploitation in intensive drilling operations for aeronautical assembly. Fractal analysis of sensor signals detected during the drilling process allows for the extraction of key features to build cognitive paradigms in view of condition monitoring for tool life diagnosis. The effectiveness of the proposed data analytics methodology is validated through an experimental campaign of CFRP composite drilling, using a setup that reproduces as faithfully as possible the real industrial operations, in order to acquire a suitable dataset of sensor signals. © 2018
+AUTHOR KEYWORDS: Condition monitoring; Fractal analysis; Machine learning
+
+Adaptive preloading for rack-and-pinion drive systems
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048223777&doi=10.1016%2fj.cirp.2018.03.006&partnerID=40&md5=ac0546546dc1313f79e7fba3865f7207
+
+ABSTRACT: In the field of machine tools, rack-and-pinion drive systems are one of the commonly used feed drive systems. In order to achieve the high accuracy specifications of modern production facilities, these drives are electrically preloaded to reduce backlash in the drive train. In most cases, the preload is fixed, even though the method of electrical preloading allows adjustment during operation. This paper describes a novel approach – called adaptive preloading – to adjust preload during operation. The objective is to increase the drive system's energy efficiency by continuously adapting the preload, which is minimally required for maintaining the drive system's accuracy. © 2018 CIRP
+AUTHOR KEYWORDS: Feed drive; Machine tool; Pinion; Preloading; Rack
+
+Redundancy-enabled stabilisation of linear encoder performance: The biSLIDER
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047294524&doi=10.1016%2fj.cirp.2018.04.004&partnerID=40&md5=85fc574b13ecbb2abd4c1752de444e07
+
+ABSTRACT: Linear encoders are widely used in industry particularly for machine tools. Their performance may suffer thermal and mechanical instability. This paper presents a technique to stabilise the performance over time by recovering to a reference state. It is based on the simultaneous readings of two heads separated by an invariant spacer. It requires off-the-shelf components only and is widely applicable in industry. Experimental results in the field and in lab show excellent error recovery even in the presence of highly nonlinear errors. © 2018
+AUTHOR KEYWORDS: Compensation; Encoder; Redundancy
+
+Influence of skin-layer microstructure in ultrafast laser surface treatment
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045553509&doi=10.1016%2fj.cirp.2018.04.007&partnerID=40&md5=13690bf8a1644f4a2ab6648064208db6
+
+ABSTRACT: In this work, the morphology of AISI 316L stainless steel surfaces, textured with ultrafast laser machining, was studied by scanning probe microscopy. In particular, correlations between the morphology and the polycrystalline microstructure of the material were searched. Topographic maps of the treated surfaces revealed a transition from small-sized to larger size and rather irregular features, driven by increase in laser fluence and depending on process parameters. In addition, a metrological analysis of the material grains demonstrated a shape and size similarity with laser-induced features attained for certain process parameters, suggesting that surface texture turns influenced by the microstructure of the skin-layer. © 2018
+AUTHOR KEYWORDS: Laser; Micro structure; Texture
+
+A standards-based approach for linking as-planned to as-fabricated product data
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046728352&doi=10.1016%2fj.cirp.2018.04.039&partnerID=40&md5=fb0a665fe559cffe56fdf7e0aab1a89d
+
+ABSTRACT: The digital thread links disparate systems across the product lifecycle to support data curation and information cultivation and enable data-driven applications, e.g., digital twin. Realizing the digital thread requires the integration of semantically-rich, open standards to facilitate the dynamic creation of context based on multiple viewpoints. This research develops such an approach to link as-planned (ISO 6983) to as-fabricated (MTConnect) product data using dynamic time warping. Applying this approach to a production part enabled the designer to make a more optimal decision from the perspective of the product lifecycle that would have otherwise been challenging to identify. © 2018
+AUTHOR KEYWORDS: Digital thread; Integration; Lifecycle
+
+Efficient and damage-free ultrashort pulsed laser cutting of polymer intraocular lens implants
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046671473&doi=10.1016%2fj.cirp.2018.04.095&partnerID=40&md5=75dd4d1e07dbb81bbac1ab167ec35a77
+
+ABSTRACT: Ophthalmic intraocular lenses are conventionally machined by diamond tools. A promising alternative approach is contour cutting by ultrashort pulsed laser micromachining. To improve process knowledge, a parametric study of picosecond and femtosecond laser machining of medical grade hydrophilic copolymers and PMMA is carried out. Material removal rates and machining quality with respect to main process parameters are determined. Reasons for chipping and formation of heat affected zones are identified and an optimized process strategy is derived. By choosing a defined pulse overlap, heat accumulation is kept minimal while increasing absorptivity through incubation avoids chipping. © 2018
+AUTHOR KEYWORDS: Femtosecond and picosecond laser pulses; Laser micro machining; Polymer
+
+Temperature calculation in cutting zones
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046622161&doi=10.1016%2fj.cirp.2018.03.009&partnerID=40&md5=7117ad3d6b27b455988321b506cef724
+
+ABSTRACT: This paper presents methods for refining the calculation of cutting temperatures. The heat flow densities and temperatures in the chip forming area, the accumulation zone and the area of the plastic contact between chip and tool affect the cutting temperature considerably. The new method takes the heat distribution for moving sources into account. The temperature in the contact between the flank face and the workpiece is calculated considering how friction and the accumulation zone affect the cutting temperature in the tertiary cutting zone. The methods incorporate material softening during temperature increase. The models are verified by experimental analyses. © 2018
+AUTHOR KEYWORDS: Cutting; Modelling; Temperature
+
+Direct manufacturing of diamond composite coatings onto silicon wafers and heat transfer performance
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047523777&doi=10.1016%2fj.cirp.2018.04.092&partnerID=40&md5=11458442c727ba985ba406e1ee3fd594
+
+ABSTRACT: This paper reveals new insights on how to achieve direct deposition of functional materials onto silicon wafers for cooling purposes. Manufacturing heat spreaders directly onto a microprocessor will negate the need for Thermal Interface Materials (TIMs) which often account for the highest resistances in a typical CPU thermal circuit. In this work we demonstrate that Cold Spray can be tailored to directly print onto a silicon wafer with a layered structure of aluminum, copper and diamond. The thermal performance of the copper/diamond coating was also separately measured using an in-house testing apparatus showing heat-transfer enhancements in agreement with theoretical predictions. © 2018
+AUTHOR KEYWORDS: Cold Spray; Diamond coating; Direct printing
+
+Adaptive inverse control of a galvanometer scanner considering the structural dynamic behavior
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046632502&doi=10.1016%2fj.cirp.2018.04.063&partnerID=40&md5=e4b0abd180c71cc2f9ef4e262c65bf23
+
+ABSTRACT: In industrial applications, scanner systems are utilized for several operations, but do not always meet the desired dynamics. Various controller-based approaches, which concentrate on simple trajectories or changes in operation points, have been presented within the last years; however, these are not sufficient for many production processes. In this paper, adaptive inverse control is utilized to enhance the scanner's dynamics. The influence of structural dynamics is compensated by taking the behavior of the galvanometers’ mirrors into account. The performance of the new approach is verified by experimental results, reducing the optical error by almost 95% compared to current scanner systems. © 2018
+AUTHOR KEYWORDS: Adaptive control; Dynamics; Model
+
+Thermal modeling and optimization of interrupted grinding
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046352451&doi=10.1016%2fj.cirp.2018.04.083&partnerID=40&md5=fd0bccf1a6e79e55f08677b28a76695d
+
+ABSTRACT: Finishing parts such as blade tips of assembled engine rotors is an interrupted grinding process. Thermal issues such as burn often become more prominent for interrupted grinding because of the low thermal capacity during the entry and the exit of each interruption. This paper presents models to calculate the transient and steady state temperatures for interrupted grinding. The developed models are then used to investigate the influence of grinding process parameters and cooling on the transient temperature rise. The model results can be used to develop new grinding cycles with variable work speed to increase material removal rate while maintaining temperature below burn limit. © 2018
+AUTHOR KEYWORDS: Grinding; Modeling; Temperature
+
+Study of the effects of laser micro structuring on grinding of silicon nitride ceramics
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046716808&doi=10.1016%2fj.cirp.2018.04.084&partnerID=40&md5=12fbfa15ffb8b5b70aee25d3efeb3290
+
+ABSTRACT: A novel laser assisted grinding process is developed to increase the material removal rates in grinding Si3N4. Micro structuring of the workpiece surface by nano- and pico-second laser radiations prior to the grinding led to a reduction of up to 55% in the specific grinding energy while simultaneously a slightly improved ground surface quality could be achieved. Ablation mechanism of nano- and pico-second lasers and surface integrity of the ground samples are studied. The results of single grain scratch tests suggest that the reduced specific grinding energy through laser structuring of workpiece is mainly due to the induced lateral cracks. © 2018
+AUTHOR KEYWORDS: Laser assisted grinding; Laser energy; Silicon nitride; Single grain cutting; Specific grinding energy; Ultra-short pulsed laser
+
+Multi-station molding machine for attaining high productivity in small-lot productions
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048553678&doi=10.1016%2fj.cirp.2018.04.012&partnerID=40&md5=0f8ac4030825f35061f9488d428cb21c
+
+ABSTRACT: In typical resin molding, multi-cavity molds are generally used to reduce cycle time and increase productivity. However, these types of molds are large, which also increase the size of the facility. The newly developed compact multi-station resin molding machine features single-cavity molds and split process which are conducted in parallel in four stations to cut down on cycle time. To realize this method, small molds with self-clamping is required. This paper reports the results of the method for obtaining the optimum conditions for suppressing the generation of flashes and the degradation of dimensional accuracy in a short time using CAE. © 2018
+AUTHOR KEYWORDS: CAE; Injection molding; Production engineering
+
+Multiscale analyses and characterizations of surface topographies
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050125808&doi=10.1016%2fj.cirp.2018.06.001&partnerID=40&md5=755753256a80b084216e92a2fd9d67ac
+
+ABSTRACT: This work studies multiscale analyses and characterizations of surface topographies from the engineering and scientific literature with an emphasis on production engineering research and design. It highlights methods that provide strong correlations between topographies and performance or topographies and processes, and methods that can confidently discriminate topographies that were processed or that perform differently. These methods have commonalities in geometric characterizations at certain scales, which are observable with statistics and measurements. It also develops a semantic and theoretical framework and proposes a new system for organizing and designating multiscale analyses. Finally, future possibilities for multiscale analyses are discussed. © 2018
+AUTHOR KEYWORDS: Metrology; Roughness; Surface
+
+Process mechanism in ultrasonic cavitation assisted fluid jet polishing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046846372&doi=10.1016%2fj.cirp.2018.04.075&partnerID=40&md5=49cebba84ff660f243df3bbbd35d37e6
+
+ABSTRACT: Material removal rate in fluid jet polishing is significantly enhanced when ultrasonic cavitation bubbles are introduced at the nozzle outlet. In this paper, two theories are put forward to explain the process mechanism: a micro-scale hypothesis in which the surface is micro-jetted by collapsing bubbles, and a macro-scale hypothesis in which vibration of the fluid in the impingement region increases abrasive particle erosive action. Experimental investigation suggests the higher likelihood of the macro-scale phenomenon, and a material removal model is proposed accordingly. Process footprints simulated by this model were found to agree well with experimental measurements. © 2018
+AUTHOR KEYWORDS: Finishing; Fluid jet polishing; Ultrasonic
+
+Fabrication of un-coated transparent superhydrophobic sapphire surface using laser surface ablation and heat treatment
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046717223&doi=10.1016%2fj.cirp.2018.04.085&partnerID=40&md5=f869fc13c2e96cc29bcc2e86ba7a91e9
+
+ABSTRACT: Sapphire is a widely used hard transparent material for optics and protective windows, and a superhydrophobic coating on sapphire can prevent contamination by self-cleaning. However, the coating can be easily degraded according to time and heat. In this research, transparent superhydrophobic sapphire surfaces were fabricated via laser surface ablation, without coating, for good stability and heat resistance. The laser ablated surface showed hydrophilic initially, but the wettability transition to superhydrophobic was achieved after an additional simple heat treatment. Contact angle and transmittance were measured to confirm the superhydrophobicity and transparency, and surface analysis was performed to explain the wetting mechanism. © 2018
+AUTHOR KEYWORDS: Laser beam machining (LBM); Surface modification; Transparent superhydrophobic sapphire
+
+3D printing of multiple metallic materials via modified selective laser melting
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046618891&doi=10.1016%2fj.cirp.2018.04.096&partnerID=40&md5=42db700c5bc7226326f3ee572cff002e
+
+ABSTRACT: Selective laser melting (SLM) is a powder bed layer-by-layer fusion technique mainly applied for additive manufacturing of 3D metallic components of complex geometry. However, the technology is currently limited to printing a single material across each layer. In many applications such as the manufacture of certain aero engine components, conformably cooled dies, medical implants and functional gradient structures, printing of multiple materials are desirable. This paper reports an investigation into the 3D printing of multiple metallic materials including 316L stainless steel, In718 nickel alloy and Cu10Sn copper alloy within a single build-up process using a specially designed multiple material SLM system combining powder-bed with point by point powder dispensing and selective material removal, for the first time. Material delivery system design, multiple material interactions, and component characteristics are described and the associated mechanisms are discussed. © 2018
+AUTHOR KEYWORDS: 3D printing; Multiple materials; Selective laser melting
+
+Flexibility in metal forming
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048524196&doi=10.1016%2fj.cirp.2018.05.004&partnerID=40&md5=586eecbb7aefba9201703ea3b2c2a25b
+
+ABSTRACT: Flexibility in metal forming is needed more than ever before due to rapidly changing customer demands. It paves the way for a better control of uncertainties in development and application of metal forming processes. Although flexibility has been pursued from various viewpoints in terms of machines, material, process, working environment and properties, etc., a thorough study of the concept was undertaken in order to with problems of manufacturing competiveness and tackle new challenges of manufacturing surroundings. Therefore, in this paper, flexibility in forming is reviewed from the viewpoints of process, material, manufacturing environment, new process combinations and machine–system–software interactions. © 2018
+AUTHOR KEYWORDS: Flexibility; Manufacturing; Metal forming
+
+Process design and modelling methods for automated handling and draping strategies for composite components
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045883590&doi=10.1016%2fj.cirp.2018.04.014&partnerID=40&md5=366bf4c786baf42ea6d1a6ddf468f58e
+
+ABSTRACT: Fibre-reinforced-thermoplastics (FRT) have excellent weight-specific properties compared to conventional engineering materials. However, a wider dissemination of this technology into existing plant technologies is restrained by the low degree of automation. Complex FRT component geometries pose special challenges to gripper design and handling strategies in automated preform processes regarding limp material behaviour and fast cooling time. The preform quality is influenced by the component geometry, reinforcing fabric, and preform process. This paper presents the development of an automated handling and draping strategy, which is validated by finite-element-analysis and experimental testing to meet the requirements of large-scale preforming processes for complex geometries. © 2018 CIRP
+AUTHOR KEYWORDS: Automation; Composite gripper; Handling
+
+Toward a new tribological approach to predict cutting tool wear
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045944592&doi=10.1016%2fj.cirp.2018.03.014&partnerID=40&md5=f1e4d1d5892e570d3b76afc6a7c73bda
+
+ABSTRACT: This work aims at improving the numerical modelling of cutting tool wear in turning. The key improvement consists in identifying a fundamental wear model by means of a dedicated tribometer, able to simulate relevant tribological conditions encountered along the tool–workmaterial interface. Thanks to a design of experiments, the evolution of wear versus time can be assessed for various couples of contact pressure and sliding velocities (σn, Vs) leading to the identification of a new wear model. The latter is implemented in a numerical cutting model to locally simulate tool wear along the contact with regard to each local tribological loading. © 2018
+AUTHOR KEYWORDS: Friction; Modelling; Wear
+
+Development of a patterning system for vitrified CBN wheels based on modal analysis
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046169293&doi=10.1016%2fj.cirp.2018.04.076&partnerID=40&md5=fac2a08b245362755af36270e69bf5c0
+
+ABSTRACT: One of the alternatives under development by industry to reduce tailpipe emissions in internal combustion engines is the texturing of the crankshaft bearings using patterned grinding wheels. As modern industrial grinding solutions for forged crankshafts are based on vitrified CBN wheels, a new approach is needed for rotary dressing patterning. This paper describes the development of patterning system for vitrified CBN wheels based on modal vibration analysis. Aspects related to the device design, modelling and simulation of the texturing process are discussed in the paper. The obtained results reported in this paper indicate a high potential for industrial application. © 2018
+AUTHOR KEYWORDS: Cubic boron nitride (CBN); Dressing; Wheel patterning
+
+Ultimate capability of variable pitch milling cutters
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048125859&doi=10.1016%2fj.cirp.2018.03.005&partnerID=40&md5=0b046555e631daa90de78aa9a24027c5
+
+ABSTRACT: Variable pitch milling cutters intend to increase performance, but off-the-shelf cutters do not ensure this generally. Depending on the milling process they are selected for, they can perform better or even worse than uniform pitch cutters do. Improved performance can be guaranteed by considering the reflected dynamic behaviour of the machine/tool/workpiece system. This work presents the achievable upper and lower capability bounds by introducing so-called stabilizability diagrams of a hypothetical variable pitch milling cutter that is tuned continuously along the stability boundaries. Robustly tuned milling cutters are designed for selected spindle speed ranges, which are experimentally tested both under laboratory and industrial conditions. © 2018
+AUTHOR KEYWORDS: Chatter; Optimization; Tool geometry
+
+Error mapping of rotary tables in 4-axis measuring devices using a ball plate artifact
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046693911&doi=10.1016%2fj.cirp.2018.04.005&partnerID=40&md5=ef4519896df0e0c298ef1133479fcbeb
+
+ABSTRACT: Rotary tables as components of 4-axis measuring devices provide a quick rotary positioning in geometry measurements, but the non-trivial error motions need to be determined and compensated. This paper presents a new solution for the error mapping, which calibrates the rotary table, the 3-axis measuring device and the artifact (circular ball plate) simultaneously. Multi-measuring and approximation techniques are introduced to identify and quantify the error motions based on obtained point clouds. A mathematical model covers all the deviation sources, occurring at the movement of a rotary axis. Simulations and experimental results verify and validate the solution. The simple and flexible calibration setup together with the developed evaluation procedure enable a compensation of rotary table/axis deviations in a wide application field. © 2018
+AUTHOR KEYWORDS: Compensation; Coordinate measuring machine (CMM); Rotary table
+
+Enhancing development trajectories of synthetic environments
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046657734&doi=10.1016%2fj.cirp.2018.04.117&partnerID=40&md5=f313f95115f842f32fc9cd6037f3d6dc
+
+ABSTRACT: This research presents a framework that supports all stakeholders in the development of a Synthetic Environment. Guidance and support are provided throughout the entire process of development. Multiple disciplines are involved in this process, and the communication and collaboration between them is facilitated in such a way that mutual understanding is enhanced. Moreover, the rationale of decisions made throughout the development can be documented and accessed in such a way that all stakeholders can review and comprehend these decisions in relation to the prior and underlying decision-making processes. © 2018
+AUTHOR KEYWORDS: Decision making; Synthetic environments; Virtual reality
+
+Precision enhanced electrochemical jet processing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046368801&doi=10.1016%2fj.cirp.2018.04.086&partnerID=40&md5=33b0335d508a86b1866196efbd0ca106
+
+ABSTRACT: Through electro-physical modification of the electrode gap in electrochemical jet techniques, precision has been shown to be greatly increased. Repeatable kerf widths approaching the diameter of the nozzle are demonstrated and the individual contributing effects are quantified across energy density and length scales. This allows the feature resolution achievable through electrochemical jet processing to be comparable to other surface structuring techniques, albeit with zero thermal loading of the surface. This is applied to demonstrate the machining of complex geometric features, not previously produced by electrolyte jet techniques. © 2018
+AUTHOR KEYWORDS: Electrochemical; Electrolyte jet; Precision machining
+
+A novel cascade control principle for feed drives of machine tools
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045705848&doi=10.1016%2fj.cirp.2018.03.004&partnerID=40&md5=3cac06506df035ad21d9c4a4773ce541
+
+ABSTRACT: Most feed drives in machine tools are designed using ball screw drives. The bandwidth of such drives with conventional PPI control principle is limited by the first natural frequency of mechanical transmission elements. A novel feedback control principle is presented to improve feed drive dynamics. It is cascade structured and consists of a weakly set motor speed controller, a disturbance observer with the feedback velocity of machine table and a PD position controller. This principle increases the bandwidth of the position loop over 200% without any extra sensor or actuator. Experimental results validate the effectiveness and robustness of this principle. © 2018 CIRP
+AUTHOR KEYWORDS: Control; Drive; Dynamics
+
+Effect of different laser-induced periodic surface structures on polymer slip in PET injection moulding
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046702984&doi=10.1016%2fj.cirp.2018.04.102&partnerID=40&md5=c5f06a3f69ee1f14393995a843aa5010
+
+ABSTRACT: In injection moulding, high pressure is required to fill the mould, due to the viscosity of thermoplastic polymers, the reduced thickness of the cavity and the low mould temperature. In this work, significant pressure reduction was achieved inducing the slip of the polymer melt over the mould surface by means of Laser-Induced Periodic Surface Structures (LIPSS). In particular, the slipping of molten PET was investigated as a function of nano-structuring orientation and injection velocity. The results demonstrate that LIPSS parallel to flow induce strong wall slip of the polymer melt, allowing a maximum reduction of the injection pressure of 23%. © 2018 CIRP
+AUTHOR KEYWORDS: Injection moulding; Laser micro machining; Wall slip
+
+The influence of burr formation and feed rate on the fatigue life of drilled titanium and aluminium alloys used in aircraft manufacture
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046169920&doi=10.1016%2fj.cirp.2018.03.013&partnerID=40&md5=826b32b0fa67a97084c91f4f37408255
+
+ABSTRACT: Following drilling, fatigue life trials were performed on as-drilled and deburred specimens made from Ti–6Al–4V, AA7010 and AA2024, with feed rates varied at 2 levels. Deburring dramatically increased the fatigue performance of the Ti–6Al–4V and AA7010 samples by 69% and 283% respectively, but there was no significant effect on the AA2024 alloy. Fractography showed failure initiated near the exit burrs in Ti–6Al–4V and AA7010 specimens but not in the AA2024 workpieces. Correlation (R2) of fatigue notch factor against the sum of entrance and exit burr height was 0.68 and 0.79 for Ti–6Al–4V and AA7010 respectively, compared to 0.54 for AA2024. © 2018
+AUTHOR KEYWORDS: Deburring; Fatigue; Fracture analysis
+
+Model-based optimisation of CT imaging parameters for dimensional measurements on multimaterial workpieces
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045710954&doi=10.1016%2fj.cirp.2018.04.003&partnerID=40&md5=057e7db50cd035c3f79bc0bcffa1e73e
+
+ABSTRACT: The uncertainty of measurements with X-ray computed tomography (CT) depends on setup parameters that the operator must choose. Currently, there is no established model describing the relationship between setup parameters and measurement uncertainty. This paper presents an analytical method for optimising CT setup parameters for dimensional measurements on multimaterial workpieces. The method is based on defining and maximising scan quality. An experimental study proved the validity of the method by analysing the standard deviation of CT measurements on a multimaterial test artefact. An analysis of variance on the uncertainty contributions showed that the predicted parameters were globally optimal. © 2018
+AUTHOR KEYWORDS: Metrology; Uncertainty; X-ray
+
+A geometrical model for managing surface productivity of U-shaped assembly lines
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046156181&doi=10.1016%2fj.cirp.2018.04.047&partnerID=40&md5=b744191ac62878da2511cdc6dd893593
+
+ABSTRACT: U-shaped assembly lines (U-SALs) are cellular manufacturing systems that, among other things, provide a remarkable feature for industrial cost efficiency: their effectiveness in space utilization. While the challenge of machine placement for labour productivity optimization is widely studied in the literature, surface productivity optimization has been scarcely explored. This paper proposes an industry-validated geometrical model for optimizing U-SAL surface productivity. The model links the drivers for market, product and process with the geometrical design. Managers and lean practitioners can use this approach to make decisions for layout design. The model is particularly useful in cases where the cost of floor space is substantially high. © 2018
+AUTHOR KEYWORDS: Assembly; Productivity; U-shaped line
+
+Cutting force model for gear honing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046160224&doi=10.1016%2fj.cirp.2018.03.022&partnerID=40&md5=010ce9e9868193f05360d61b81fc2a8b
+
+ABSTRACT: In gear honing the low robustness of the process is a challenge in process design. The forces resulting from the machining interact with the dynamic behavior of the system which influences the quality of the workpiece and the tool life. Due to these reasons, the process forces during gear honing must be determined locally and temporally resolved. Therefore, a force model was derived and parameterized with gear honing analogy trials. This force model was combined with a process simulation for gear honing and an analytical calculation of the velocities. The model for gear honing was validated with gear honing trials. © 2018
+AUTHOR KEYWORDS: Force; Gear; Honing
+
+Controlling metal structure with remelting process in direct energy deposition of Inconel 625
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046357207&doi=10.1016%2fj.cirp.2018.04.061&partnerID=40&md5=df592a09fd70a7bf5ae81fe353be04b8
+
+ABSTRACT: Direct energy deposition (DED) is a metal additive manufacturing process that involves the application of a large amount of heat energy, which generates a thermal gradient across the deposited part. This usually results in unexpected anisotropy and weakening of the deposited part due to residual pours. These problems need to be solved to ensure satisfactory results when using DED. This study led to the proposal of a simple heat treatment procedure for DED-produced parts in the form of a remelting process, which controls the metal crystal orientation and eliminates residual pours. The use of a high-power laser for remelting certainly obtained high-density metal structures with high hardness. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Heat treatment; Laser
+
+Enhanced dimensional measurement by fast determination and compensation of geometrical misalignments of X-ray computed tomography instruments
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046699289&doi=10.1016%2fj.cirp.2018.04.124&partnerID=40&md5=cd3698d79b02f1504d24c4941df19d1b
+
+ABSTRACT: Full geometrical alignment of CT instruments remains a complicated endeavor. This paper therefore presents a fast and comprehensive method for determination and compensation of geometrical misalignments. First, a reference object, consisting of spheres mounted on a carbon fiber tube, is X-ray imaged at different angular positions. Subsequently, the misalignment parameters of the CT instrument are determined by minimizing the residual errors between observed and modelled sphere center coordinates. Finally, the FDK-based tomographic reconstruction algorithm is adapted to account for the determined misalignment parameters. The paper discusses the fundamentals of the approach and provides an experimental validation of its performance. © 2018
+AUTHOR KEYWORDS: Compensation; Metrology; X-ray
+
+Cutting characteristics of PVD-coated tools deposited by filtered arc deposition (FAD) method
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045929625&doi=10.1016%2fj.cirp.2018.03.012&partnerID=40&md5=2b2dfdcf660a37bd51f7071a6c7ef233
+
+ABSTRACT: The cutting characteristics of novel physical vapor deposition (PVD)-coated tools deposited using filtered arc deposition (FAD) method are investigated. The TiCN-coated films are extremely smooth without any droplets. They exhibit superior hardness and adherence and a favorable cutting performance for the high-speed milling of a prehardened stainless steel. The availability of a newly proposed VN film is also examined. Owing to the good lubrication and tribological properties of the VN coating film, the lower cutting force, flank wear with, and cutting temperature than those of the TiN-coated tool are obtained in milling of the prehardened steel. © 2018
+AUTHOR KEYWORDS: Coating; Cutting tool; End milling
+
+Novel design approach for the creation of 3D geometrical model of personalized bone scaffold
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046155597&doi=10.1016%2fj.cirp.2018.04.064&partnerID=40&md5=64f870cb4aac9a07aef5dd0d86385049
+
+ABSTRACT: Bone scaffolds provide a structural support for tissue development. Existing bone scaffolds are mainly characterized by complex porous designs whose shortcomings are a low level of permeability for growing tissue, and a difficult design customization. Scaffolds with nucleuses (rods or lattices) as basic elements should improve bone regeneration and enable higher design flexibility. In this paper, we present two new methods for building 3D geometrical models of personalized scaffolds, which are based on method of anatomical features. Methods are demonstrated in the case of scaffold for the mandible bone. This approach greatly reduces the designer effort and time, while enabling easy personalization of scaffolds’ shape and geometry. © 2018
+AUTHOR KEYWORDS: Design method; Reverse engineering; Scaffold
+
+Integrated Computational Life Cycle Engineering — Application to the case of electric vehicles
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046156489&doi=10.1016%2fj.cirp.2018.04.052&partnerID=40&md5=60027029ffb68148a7e6a1df64fdabaf
+
+ABSTRACT: Modelling and analysing lifecycle environmental impacts of product systems demands often specialized knowledge and is time-demanding. Product systems are typically defined by complex technical foreground systems and immersed in highly diverse contexts and background systems. Available software tools fail to streamline the modelling and analysis of this complexity, leading to extensive iterations or rough simplifications. The approach introduced in this paper supports the modelling of complex systems and their interactions with diverse backgrounds. This enables developing flexible and comprehensive environmental assessment tools. The applicability and advantages of the approach developed is demonstrated through its application for the environmental assessment of electric vehicles. © 2018
+AUTHOR KEYWORDS: Electric vehicle; Integrated Computational Life Cycle Engineering (IC-LCE); Lifecycle
+
+Distributed control with rationally bounded agents in cyber-physical production systems
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046775483&doi=10.1016%2fj.cirp.2018.04.037&partnerID=40&md5=28a9e9a30b3d1092593f69269c0ca459
+
+ABSTRACT: Cyber-physical production systems are transforming traditional, hierarchical control structures into distributed ones in which the elements offer and consume services with a high degree of autonomy. This paper proposes an agent-based approach to distributed control for production environments in which the agents are only able to interact with a part of the whole system. It hypothesises that the performance of the agent network can be improved through learning and communication. A description of the approach is presented and illustrated with a simulation case of distributed control for an industrial compressed-air system. © 2018
+AUTHOR KEYWORDS: Distributed control; Manufacturing system; Multi-agent system
+
+Machining-induced surface transformations of magnesium alloys to enhance corrosion resistance in human-like environment
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045699031&doi=10.1016%2fj.cirp.2018.04.040&partnerID=40&md5=a19d92a8b9960a95d5fb1ea51fdca9ec
+
+ABSTRACT: Magnesium alloys are becoming increasingly attractive for producing temporary prosthetic devices thanks to their bioresorbable characteristics in human body. However, their poor corrosion resistance to body fluids seriously limits their applicability. In this work, machining-induced surface transformations are explored as means to enhance corrosion resistance of AZ31 magnesium alloy. Surface characteristics including topography, residual stresses, wettability, microstructures and depth of transformed layer, were analysed and correlated to in-vitro corrosion resistance. Results showed that cryogenic machining at low feed provided the most promising corrosion reduction. Thorough physical characterizations gave fundamental insights into possible drivers for this enhanced resistance. © 2018
+AUTHOR KEYWORDS: Cryogenic machining; Magnesium; Surface integrity
+
+Robotic assisted milling for increased productivity
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046129344&doi=10.1016%2fj.cirp.2018.04.031&partnerID=40&md5=53c85c6a9e36d8621f04ae35371976bc
+
+ABSTRACT: Robots’ role in machining is growing as they are being used as machining platforms in increasing number of applications. Moreover, robots have an important role in a new application called, robotic assisted milling, where a robot provides additional support to a workpiece when actual machining is performed by a machine tool. In the paper, alternative methods of support with the robot, i.e. fixed and mobile support are explained. Experimental results show that the robot's support improves the static and dynamic response of the process. Hence, dimensional errors are minimized and surface quality is improved. © 2018
+AUTHOR KEYWORDS: Adaptive fixturing; Damping; Stability
+
+Fatigue life of machined Ti6Al4V alloy under different cooling conditions
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047311360&doi=10.1016%2fj.cirp.2018.03.017&partnerID=40&md5=6570c1e05c02d03fc5bfd37ab97c8401
+
+ABSTRACT: This paper presents an extensive experimental study on the influence of machining parameters and cooling conditions on the overall fatigue life of a titanium component. In particular, dry, minimum quantity lubrication, cryogenic and high-pressure air jet were compared as cooling/lubrication strategies for the finishing operation. The obtained dog-bone cylindrical fatigue specimens were tested under uniaxial pull–pull cyclic loading in the high cycle fatigue range. An analytical model is proposed to predict the high cycle fatigue strength for the material under investigation demonstrating its effectiveness to reduce the number of tests needed. © 2018
+AUTHOR KEYWORDS: Cooling; Cutting; Fatigue
+
+Effectiveness of electrically assisted solid-state pressure joining using an additive manufactured porous interlayer
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046152737&doi=10.1016%2fj.cirp.2018.04.062&partnerID=40&md5=154eb40b6904c660161d59a5897a1b4a
+
+ABSTRACT: A solid-state pressure joining using resistance heating as a heat source and adopting an additive manufactured metal porous interlayer between joining specimens is demonstrated. During the joining of 316L stainless steel cylindrical specimens, an electric current is directly applied to the joint under continuous axial compression. Defect-free joints are successfully fabricated with a lower joining pressure when applying the porous interlayer with a lower compressive strength and higher electric resistivity. The microstructural analysis confirms that the porosity is eliminated as a result of the compressive deformation during joining, and recrystallization takes place in the interlayer. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Joining; Porous interlayer
+
+Advances in macro-scale laser processing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048852964&doi=10.1016%2fj.cirp.2018.05.006&partnerID=40&md5=deeaa281a899d3b15323a3307b1f0029
+
+ABSTRACT: Laser material processing is a technology with an increasing number of industrial applications, especially for aviation and automotive. The present keynote paper focusses on the advances in macro-scale laser processing, meaning that the laser generated structures are large enough to be visible with the naked eye. Next to that, also the reasons for the advances, especially the improvements regarding the power and the beam quality of the laser sources, the higher capabilities of the systems technologies and an increasing process understanding are shown. Nevertheless, challenges like a holistic understanding of the physical phenomena and the evolution of defects in some processing methods remain to be solved in future. © 2018
+AUTHOR KEYWORDS: Cutting; Laser; Laser welding; Processing; Surface modification
+
+Impact of opportunistic maintenance on manufacturing system performance
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046637463&doi=10.1016%2fj.cirp.2018.04.078&partnerID=40&md5=df2de04e8278e10618b9b8750dd67143
+
+ABSTRACT: Opportunistic maintenance is an effective strategy to reduce the interference between maintenance and production operations in multi-stage manufacturing systems. However, its application in industry is still limited due to the difficulty to predict its impact on system performance. This paper develops a methodology for estimating the production gains that can be generated by exploiting opportunistic windows to perform preventive maintenance tasks during production. The characteristic behaviour of the system is investigated and suitable policies for implementing opportunistic maintenance actions are derived. The industrial benefits are demonstrated with reference to a real industrial case in the high-volume production of ready-to-assemble furniture. © 2018
+AUTHOR KEYWORDS: Maintenance; Opportunity window; Production system
+
+Mechanisms for controlling springback and strength in heat-assisted sheet forming
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045540701&doi=10.1016%2fj.cirp.2018.04.013&partnerID=40&md5=29ee1ab041bc18bd6b37dd5bcf674b24
+
+ABSTRACT: The recently developed multi-step sheet forming technology with inductive in-situ heating serves to increase the productivity and to reduce costs compared to hot stamping with furnace heating. The paper reveals the mechanisms for the flexible setting of geometric and mechanical properties such as the bending angle and strength in terms of a closed loop control. The air and die bending as representative forming processes are analyzed with respect to the mechanisms overbending, springback and thermal distortion by experimental, numerical, and analytical investigations. The mechanisms for controlling strength in carbon steels by grain refinement, grain growth and cooling rate are described. © 2018
+AUTHOR KEYWORDS: Bending; Hot stamping; Springback
+
+Data-driven production control for complex and dynamic manufacturing systems
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046643970&doi=10.1016%2fj.cirp.2018.04.033&partnerID=40&md5=3431ed97a420e4317ba219ea8320778f
+
+ABSTRACT: Digitalization allows for production control based on the current state of the manufacturing system. Thereof, this paper proposes and applies a data-driven adaptive planning and control approach that uses simulation-based optimization to determine most suitable dispatching rules in real-time under varying conditions. The data integration between the real manufacturing system and the simulation model is implemented through a data-exchange framework. The approach is evaluated in a scenario of a Brazilian manufacturer of mechanical components for the automotive industry, achieving better operational performance compared to the procedure previously applied by the company as well as in comparison to static dispatching rules. © 2018
+AUTHOR KEYWORDS: Adaptive control; Manufacturing systems; Optimization
+
+Additive manufacturing of metal components with the ARBURG plastic freeforming process
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046730369&doi=10.1016%2fj.cirp.2018.04.104&partnerID=40&md5=4a8fdd8bdc1be68b0047494a0d664584
+
+ABSTRACT: Using the ARBURG freeformer in the metal injection molding (MIM) process chain instead of an injection molding machine for molding the parts constitutes a new approach for the additive production of sintered metal components. Its main benefits are toolless manufacturing and using the conventional MIM feedstock. This paper presents this kind of approach with a carbonyl iron feedstock. The investigation includes the determination of the influences of the relevant printing process parameters on the mechanical properties of the sintered parts and the comparison with MIM. Experimental results are discussed, including an analysis of microsections, density, tensile strength Rm and shrinkage. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Manufacturing process; Powder
+
+Spline interpolation with optimal frequency spectrum for vibration avoidance
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045418388&doi=10.1016%2fj.cirp.2018.03.002&partnerID=40&md5=b4beb9822bfeee6f2f1108f71527c3e8
+
+ABSTRACT: A major source of inaccuracy in CNC machines is unwanted vibrations induced by the frequency spectra of reference motion trajectory. This paper presents a novel approach where instead of filtering techniques, axis motion commands are generated with optimal frequency spectra in the first place. Tangential feedrate profile is defined as parametric spline, and its frequency spectrum is optimized with respect to structural dynamics of the machine. The optimization problem is solved efficiently using Quadratic Programming. Experimental results confirm that proposed technique can greatly improve surface finish during machining spline tool-paths without sacrificing from cycle time and contouring performance. © 2018
+AUTHOR KEYWORDS: Interpolation; Spline; Vibration
+
+Influence of oxygen on the tool wear in machining
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045711638&doi=10.1016%2fj.cirp.2018.03.011&partnerID=40&md5=10a593c903fdecf2cfd0d014173c25b6
+
+ABSTRACT: High temperatures generated in machining are known to facilitate oxidation wear. A controlled atmosphere chamber was developed to investigate the effects of oxygen on tool wear and high speed machining tests were conducted on air and in argon. Cemented carbide, cermet and cubic boron nitride tooling was used on alloyed steel, hardened tool steel and superalloy Alloy 718. Machining in argon resulted in higher flank wear, higher cutting forces, and larger tool–chip contact length on the rake face. However, in hard machining, argon atmosphere reduced rake cratering. Transmission electron microscopy of tools worn on air showed formation of nanocrystalline Al2O3 film on the rake when machining aluminium containing Alloy 718, while no oxide films was detectable in the other cases. © 2018
+AUTHOR KEYWORDS: Machining; Oxidation; Wear
+
+Digital twin driven prognostics and health management for complex equipment
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047291024&doi=10.1016%2fj.cirp.2018.04.055&partnerID=40&md5=b600ba90dc08ec06e22a073ed5ca99e7
+
+ABSTRACT: Prognostics and health management (PHM) is crucial in the lifecycle monitoring of a product, especially for complex equipment working in a harsh environment. In order to improve the accuracy and efficiency of PHM, digital twin (DT), an emerging technology to achieve physical–virtual convergence, is proposed for complex equipment. A general DT for complex equipment is first constructed, then a new method using DT driven PHM is proposed, making effective use of the interaction mechanism and fused data of DT. A case study of a wind turbine is used to illustrate the effectiveness of the proposed method. © 2018
+AUTHOR KEYWORDS: Condition monitoring; Digital twin; Maintenance
+
+Model-based design and simulation of smart factory from usage and functional aspects
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046657292&doi=10.1016%2fj.cirp.2018.04.025&partnerID=40&md5=0d0565faf55d147ea5ac31ea5abf7101
+
+ABSTRACT: Usage and functional aspects of smart factory are used to express its design concepts in terms of the roles and activities of stakeholders and the functions of system elements. This study proposes a model-based framework for developing use cases of smart factory, which satisfies two competing requirements; easy-to-use composition of design concepts from these aspects and simulation-based analysis of design concepts. The framework can simulate prognostics services for machine tools connected with the service platform, and those for machine tools equipped with self-prognostics functions and it can analyse their differences regarding the performance and its progress of prognostics services. © 2018
+AUTHOR KEYWORDS: Computer aided design; Simulation; Smart factory
+
+Investigation on formability enhancement of 5A06 aluminium sheet by impact hydroforming
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046782520&doi=10.1016%2fj.cirp.2018.04.024&partnerID=40&md5=836499ef021238c2113d3fdcac20283b
+
+ABSTRACT: High strain rate (HSR) forming has been found to be able to enhance the formability of sheet metals like electro-magnetic forming. Impact hydroforming (IHF) is proposed, in which the sheet is formed with high-pressure pulse combining hydroforming and HSR forming. An IHF bulge test setup was designed, 5A06 aluminium sheet was tested with strain rate of 2 × 103 s−1 showing remarkable thickness strain increase compared with quasi-static condition. A new IHF equipment is designed, the IHF process was verified effective with the equipment, complicated aluminium aircraft sheet part with high drawing ratio was formed that cannot be formed with quasi-static hydroforming. © 2018
+AUTHOR KEYWORDS: Aluminium; Hydroforming; Impact
+
+A plasma-assisted bioextrusion system for tissue engineering
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046357979&doi=10.1016%2fj.cirp.2018.04.077&partnerID=40&md5=66acc9f840f8656fb553e3aff12916f0
+
+ABSTRACT: A challenge for tissue engineering is to produce synthetic scaffolds of adequate chemical, physical and biological cues effectively. This paper describes a plasma-assisted bio-extrusion system to produce functional-gradient scaffolds; it comprises pressure-assisted and screw-assisted extruders, and plasma jets. This paper also describes how the system conducts plasma surface modification during the polycaprolactone scaffold fabrication process. Water contact angle and in vitro biological tests confirm that the plasma modification alters the hydrophilicity properties of synthetic polymers and promotes proliferation of cells, leading to homogeneous cell colonization. The results suggest this system is promising for producing functional gradient scaffolds of biomaterials. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Biomedical; Tissue engineering
+
+Experimental investigation of the process behaviour in Mechano-Electrochemical Milling
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047619893&doi=10.1016%2fj.cirp.2018.04.088&partnerID=40&md5=27463967d5997598a2ba1a2ab6719848
+
+ABSTRACT: The increasing demand for high-performance materials, in for example aerospace and biomedical industries, calls for more efficient and capable technologies. This paper describes a new technology, namely Mechano-Electrochemical Milling (MECM), which combines electrochemical machining (ECM) with a mechanical cutting process. The process behaviour has been investigated experimentally based on the machining of two Titanium alloys, Titanium grade 2 and Titanium grade 5. The material removal mechanism was investigated through analysis of the machined surface and removed material. Besides the slightly higher material removal rate in MECM compared to ECM, the MECM process results in more stable process conditions. © 2018
+AUTHOR KEYWORDS: Electrochemical machining (ECM); Hybrid machining; Process behaviour
+
+Fusion of photogrammetry and coherence scanning interferometry data for all-optical coordinate measurement
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046347176&doi=10.1016%2fj.cirp.2018.04.043&partnerID=40&md5=ce848125f96d34848c0420cabfd2ed72
+
+ABSTRACT: Multisensor data fusion is an approach to enlarge the potential applicability of measuring techniques and improve accuracy, taking advantage of the strengths of different techniques. In this work, we present a new method for the fusion of photogrammetry and coherence scanning interferometry (CSI) data. This method allows the photogrammetry data to be accurately scaled with reference to the CSI data, and in turn the exact locations of multiple CSI measurements can be determined in the coordinate system defined by photogrammetry. The culmination of this work is to allow for high-accuracy three-dimensional optical coordinate measurement and surface topography measurement simultaneously. © 2018
+AUTHOR KEYWORDS: Coordinate measurement; Data fusion; Interferometry; Photogrammetry; Surface topography
+
+A KBE CAPP framework for qualified additive manufacturing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047268635&doi=10.1016%2fj.cirp.2018.04.045&partnerID=40&md5=5ed1697991db938bf9ef3577bd67464c
+
+ABSTRACT: Additive Manufacturing (AM) is going to perform a key role in customized or even small-batch production due to its enlarged design freedom, decreased processing constraints and a non-obvious relationship between the processing cost and complexity. However, the AM production result is not stable because there is a lack of a full processing chain management tool to control the quality. To achieve qualified AM, this paper proposes a knowledge-based process planning (KBE CAPP) framework to solve three main issues: feasibility, suitability and stability in AM production. A developing CAPP prototype system based on this framework is presented for method demonstration. © 2018
+AUTHOR KEYWORDS: Additive manufacturing; Knowledge-based system; Processing planning
+
+Hierarchical-information-based characterization of multiscale structured surfaces
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045580912&doi=10.1016%2fj.cirp.2018.04.002&partnerID=40&md5=6e39c995d99a15895d997e2deb2ba806
+
+ABSTRACT: This paper presents a hierarchical-information-based characterization method for multiscale structured surfaces. The method makes use of a priori information of the multiscale surface and a hierarchical segmentation–registration (HSR) algorithm to firstly divide the measurement dataset into segments, which are then registered with the designed geometry of the microstructure. The registered information is used to reconstruct the large scale topography. Multiple scales of surface information are decomposed hierarchically by the HSR algorithm. Hence, the errors in different scales are determined. Simulation and experimental results show that the hierarchical-information-based characterization method is accurate and effective in the characterization of multiscale structured surfaces. © 2018
+AUTHOR KEYWORDS: Characterization; Information; Surface
+
+A multi-method simulation approach for evaluating the effect of the interaction of customer behaviour and enterprise strategy on economic viability of remanufacturing
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046358900&doi=10.1016%2fj.cirp.2018.04.016&partnerID=40&md5=6d3916111c497902b53a94b3344b020b
+
+ABSTRACT: The economic viability of remanufacturing is shown to be significantly affected by the interaction between customer behaviour and strategic decisions of the manufacturer. The paper investigates this interaction using a multi-method simulation model combining a multi-agent-based model of customers and a system dynamics based model of the remanufacturing enterprise. The model uses validated approaches for each component and is used to investigate, analyse and forecast the long-term effects of strategic decisions of the remanufacturing enterprise on customer behaviour and the consequent effects on the business environment that determine the profitability of the enterprise. © 2018
+AUTHOR KEYWORDS: Lifecycle; Remanufacturing; Simulation
+
+Proposal of ‘accelerative cutting’ for suppression of regenerative chatter
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047315944&doi=10.1016%2fj.cirp.2018.04.030&partnerID=40&md5=cfe47401a75ba3a0255aa8a9d04c7224
+
+ABSTRACT: A novel speed variation method, namely ‘accelerative cutting’ is proposed for suppression of regenerative chatter in short-duration plunge cutting, e.g. finishing of sealing, seating, and bearing surfaces. Although the cutting time is short in these processes, the large cutting width often causes chatter. Compared to conventional speed variation methods where moments exist when present and previous cutting speeds do not change and cause the growth of chatter, a unidirectional acceleration is applied resulting in sufficient speed difference throughout the cutting. Since accelerative cutting cannot be realized by conventional NC functions, it is verified through analyses and specially designed cutting experiments. © 2018
+AUTHOR KEYWORDS: Accelerative cutting; Chatter; Cutting
+
+General contact force control algorithm in double-sided incremental forming
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046117351&doi=10.1016%2fj.cirp.2018.04.057&partnerID=40&md5=c93e83f7806e4c297c91270a72760e9e
+
+ABSTRACT: The utilization of a supporting tool in Double-Sided Incremental Forming (DSIF) imposes a stabilizing compressive stress through the sheet's thickness, increasing, thereby, the material's formability and fatigue life. However, these favorable effects strongly depend on a steady tool-metal contact condition. This work presents a general DSIF control scheme, which augments the conventional position servo-loop with explicit force feedback control. The algorithm is examined for its robustness and effectiveness using complex geometries with varying curvatures and wall angles. The resulting parts have demonstrated enhanced material formability and geometric accuracy. © 2018
+AUTHOR KEYWORDS: Control; Force; Incremental sheet forming
+
+Life cycle engineering of lightweight structures
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048852219&doi=10.1016%2fj.cirp.2018.05.008&partnerID=40&md5=bb1e7cf388649ec747e2c739344996e5
+
+ABSTRACT: Lightweight structures are increasingly necessary to meet current engineering requirements. Weight reduction in diverse applications such as automobiles or machine tools is achieved either by using less material or by substituting material with a lighter one, which provides more functionality per unit of weight. To be an effective enabler for sustainability, lightweight structures should result in lower environmental impacts per functional unit when compared to conventional structures on a life cycle basis. However, applying new materials and manufacturing processes often leads to an increase in environmental impacts from the raw materials and production stage of the life cycle. Furthermore, end-of-life disassembly and recycling may become more difficult. In addition, the expected efficiency gains from the use of lightweight structures depend on how the overall market and technical systems respond to them. Consequently, the environmental evaluation of lightweight structures in engineering entails various methodological challenges. Organised around a life cycle engineering framework with a focus on eco-effectiveness, this paper provides a comprehensive review of lightweight structure applications and the challenges and opportunities they present in a life cycle engineering context. © 2018
+AUTHOR KEYWORDS: Life cycle; Lightweight structures; Methodology
+
+Surface layer modification charts for gear grinding
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046169347&doi=10.1016%2fj.cirp.2018.04.071&partnerID=40&md5=f2286be6f9b5c953730842c93584c46d
+
+ABSTRACT: In this paper, an approach to predict thermo-mechanically induced changes of sub-surface properties during discontinuous profile gear grinding is presented. The approach faces industrial boundary conditions, such as varying material stock removal as well as the drawback of possible localized thermal damage on the ground tooth flanks. The basic idea is to consider the sub-surface properties after grinding as a function of “tempering time” and temperature due to the short-time heat treatment by the grinding process. Consequently, a time–temperature-diagram showing surface layer modifications for profile gear grinding based on the measurement of local contact zone temperatures has been set up. © 2018
+AUTHOR KEYWORDS: Gear; Grinding; Thermal damage
+
+Joining strength dependence on molding conditions and surface textures in blast-assisted metal-polymer direct joining
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046622688&doi=10.1016%2fj.cirp.2018.04.112&partnerID=40&md5=aabb22208cbefc0ff9fc5a56accbc212
+
+ABSTRACT: Metal-polymer direct joining is an extremely essential technology because several metal parts, especially those used in automobiles, are currently replaced by polymers to save on weight. This work achieves a strong and direct method for joining aluminum alloy and polybutylene terephthalate through metal surface roughening using abrasive micro-blasting and insert molding. A considerably higher blasting pressure than the usual shot peening enables direct joining without metal preheating. The number of pores with a certain aspect ratio produced on the metal surface has strong correlation with the joining strength due to their mechanical interlocking. Optimized blasting and molding conditions are also obtained to yield high joint strengths. © 2018
+AUTHOR KEYWORDS: Abrasive blasting; Joining; Molding
+
+Towards joint optimization of product design, process planning and production planning in multi-product assembly
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047368555&doi=10.1016%2fj.cirp.2018.04.036&partnerID=40&md5=4dd547711d44f6847caec32c3d29d812
+
+ABSTRACT: Offering product variety is crucial for satisfying diverse customer needs. Although product design, process and production planning related decisions are interdependent, they are conventionally made by different divisions, separately for each product, resulting in excess costs. This paper proposes a methodology for increasing investment efficiency by the joint optimization of product design, process and production planning for a family of products. Tolerance allocation, as a sub-problem of product design, and assembly resource configuration, regarding process planning, are solved jointly, with a foresight on long-term production planning. The efficiency of the method is demonstrated through an industrial case study. © 2018
+AUTHOR KEYWORDS: Assembly; Design optimization; Production planning; Tolerancing
+
+A location-allocation model for sustainable NdFeB magnet recovery under uncertainties
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047363420&doi=10.1016%2fj.cirp.2018.04.050&partnerID=40&md5=16fa3c9c92f54dcb696038d208f072f4
+
+ABSTRACT: Neodymium-iron-boron (NdFeB) magnets play a critical role in clean power products, e.g., electric vehicles and wind turbines. Since China has near monopolistic control of the supply of these magnets, many parties are interested in recovering end-of-life magnets for additional use cycles. Such a strategy requires a cost-effective approach to collect and process used magnets while maximizing the economic and environmental benefits. This paper employs fuzzy logic and non-dominated sorting genetic algorithm (NSGA-II) to solve a location-allocation problem for NdFeB magnet recovery under supply and demand uncertainties. A Pareto front is constructed to evaluate the performance of the proposed design. © 2018
+AUTHOR KEYWORDS: Design optimization; Genetic modelling; Logistics
+
+Curvature-adaptive multi-jet polishing of freeform surfaces
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046342312&doi=10.1016%2fj.cirp.2018.04.072&partnerID=40&md5=6f3aa839255d12ba55eb5c3fa0a76818
+
+ABSTRACT: This paper presents a curvature-adaptive multi-jet polishing (CAMJP) method that can achieve high efficiency and cater for adaptation of the variation of the material removal rate (MRR) to the curvature of freeform surfaces. CAMJP makes use of a purposely designed multi-jet nozzle incorporated with a pressure control system. The effect of surface curvature on the MRR is analysed by computational fluid dynamic modelling. The fluid pressure of each jet is controlled independently to vary the MRR according to the curvature of freeform surfaces. Experimental results show that CAMJP is effective in improving the accuracy of polishing freeform surfaces. © 2018
+AUTHOR KEYWORDS: Multi-jet; Polishing; Surface
+
+Experimental investigation of melt pool behaviour during selective laser melting by high speed imaging
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046622001&doi=10.1016%2fj.cirp.2018.04.097&partnerID=40&md5=a237c3c40249ec1c6659a3642fde1a76
+
+ABSTRACT: Melt pool behaviour and the characteristics of the surrounding metal powder during selective laser melting (SLM) are captured using high-speed imaging, and the influence of the substrate temperature and the line building sequence on the formation of the built structure and the generation of spatter particles is experimentally investigated. The results indicate that the substrate temperature has a measurable effect on the formation of droplets and the generation of spatter particles, while the volume specific energy density of the process was the principal factor affecting the built structure. © 2018
+AUTHOR KEYWORDS: Monitoring; Selective laser melting (SLM); Spatter particles
+
+Reinforcement learning for adaptive order dispatching in the semiconductor industry
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045954603&doi=10.1016%2fj.cirp.2018.04.041&partnerID=40&md5=d5f9375f302bdc283d7e370609b720f1
+
+ABSTRACT: The digitalization of production systems tends to provide a huge amount of data from heterogeneous sources. This is particularly true for the semiconductor industry wherein real time process monitoring is inherently required to achieve a high yield of good parts. An application of data-driven algorithms in production planning to enhance operational excellence for complex semiconductor production systems is currently missing. This paper shows the successful implementation of a reinforcement learning-based adaptive control system for order dispatching in the semiconductor industry. Furthermore, a performance comparison of the learning-based control system with the traditionally used rule-based system shows remarkable results. Since a strict rulebook does not bind the learning-based control system, a flexible adaption to changes in the environment can be achieved through a combination of online and offline learning. © 2018
+AUTHOR KEYWORDS: Artificial intelligence; Production planning; Semiconductor industry
+
+Brainwaves driven human-robot collaborative assembly
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046824437&doi=10.1016%2fj.cirp.2018.04.048&partnerID=40&md5=b2e0c257c78550b269250156d251266d
+
+ABSTRACT: This paper introduces an approach to controlling an industrial robot using human brainwaves as a means of communication. The developed approach starts by establishing a set of training sessions where an operator is enquired to think about a set of defined commands for the robot and record the brain activities accordingly. The results of the training sessions are then used on the shop floor to translate the brain activities to a set of robot control commands. An industrial case study is carried out to assist the operator in coordinating a collaborative assembly task of a car engine manifold. © 2018
+AUTHOR KEYWORDS: Assembly; Brainwaves; Robot
+
+A highly efficient hybrid inductive joining technology for metals and composites
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046171417&doi=10.1016%2fj.cirp.2018.04.015&partnerID=40&md5=e64f18a83dfb333a4021c4d8834e81e4
+
+ABSTRACT: A hybrid technology of inductive contact joining (ICJ) was developed to join fibre-reinforced thermoplastics (FRP) with metals by using a tool with single-sided heating. In comparison to conventional methods with separate heating, pressing and cooling, the unique new hybrid ICJ process is characterized by combining all three steps into one hybrid process. The maximum temperature is shifted toward the joining zone due to the direct cooling effect of the surface. FE simulations showed the temperature distributions within the joint. The performed experiments provided data for the temperature profile of the process and the resulting strength of the joint, type of damage and microstructural characteristics. Proven advantages include very short cycle time, competitive joint strength and limited influence on the mechanical properties of the metallic component. © 2018
+AUTHOR KEYWORDS: Assembly; Composite; Induction joining
+
+Smart pressure distribution estimation in biological joints for mechanical bio-inspired design
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046820639&doi=10.1016%2fj.cirp.2018.04.116&partnerID=40&md5=e4ade07b5da02f0373e01a9eac616c12
+
+ABSTRACT: Designing new mechanical links using bio-inspiration requires the knowledge of operating contact pressure in biological joints. However, the contact pressure magnitude and distribution are difficult to measure experimentally without disrupting the functioning of the articulation. In this paper, a new methodology to estimate the pressure distribution in biological joints is presented. A robust finite element model was developed based on in-vitro precise measurements of shapes, relative positions and loads in order to get accurate results. Furthermore, the envelope of the contact area was obtained through thermal imaging for comparison with the numerical results and qualitative validation of the FE model. © 2018
+AUTHOR KEYWORDS: Biologically inspired design; Finite element method; Mechanical connection
+
+An extrusion method of tube with spiral inner fins by utilizing generation of spiral outer fins/grooves
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046170881&doi=10.1016%2fj.cirp.2018.04.023&partnerID=40&md5=524af628f9939c6d92893404cc2e42df
+
+ABSTRACT: This paper presents a new extrusion method for fabrication of a tube with spiral inner fins. The spiral fins are formed by utilizing the generation of spiral outer fins or grooves, which drive the metal to circumferentially move with twist deformation. The effect of the outer fins/grooves is examined for realizing the circumferential metal flow. The position of the mandrel has an ability to flexibly control the spiral angle. This method would drastically enhance the productivity and reduce the manufacturing cost, as the tube would be manufactured directly from a billet through only one process. © 2018
+AUTHOR KEYWORDS: Extrusion; Metal forming; Tube
+
+An architectural approach to the integration of safety and security requirements in smart products and systems design
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045558164&doi=10.1016%2fj.cirp.2018.04.022&partnerID=40&md5=5d66e1f38c2523c4b771669c110bc8b8
+
+ABSTRACT: Assuring functional safety and IT security is rapidly becoming an essential key challenge to the design of any connected smart product and industrial manufacturing system. This paper proposes an architectural approach to the integrated consideration of functional safety and IT security requirements in the design process of smart products and the (Industrial) Internet of Things (IIoT). Based on axiomatic design and signal flow analysis, it shows that such requirements have related impacts on system architectural design choices rendering integrated design necessary to meet the desired risk reduction levels effectively and efficiently. A case study in the automotive domain is presented in order to illustrate and validate the proposed approach. © 2018
+AUTHOR KEYWORDS: Design; Integration; Safety
+
+Learnstruments: Learning-conducive artefacts to foster learning productivity in production engineering
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047870006&doi=10.1016%2fj.cirp.2018.04.122&partnerID=40&md5=f97d26204192aa591486faa9cfc8afe3
+
+ABSTRACT: Learnstruments are artefacts, which automatically demonstrate their functionality to the learner. They can be used directly at the workplace and aim at increasing the learning and teaching productivity. The huge variety of design paths for Learnstruments requires a systematic approach for their development. A morphology for Learnstruments is introduced. Exemplary learning-conducive applications for manual assembly in international organizations like 3D-PDFs and a Smart-Assembly-Workplace are presented. They help avoiding assembly errors and improve productivity by providing interactive instructions to the learners. By implementing these along the morphology guideline, the consideration of important didactical and technical criteria is ensured. © 2018
+AUTHOR KEYWORDS: Learning; Learnstrument; Manufacturing
+
+Rapid surface nitriding of titanium alloy by a nanosecond fiber laser under atmospheric conditions
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045479829&doi=10.1016%2fj.cirp.2018.04.006&partnerID=40&md5=40e7e9743ac1a45cb564fc113906bd21
+
+ABSTRACT: A modified surface layer using a Yb nanosecond fiber laser beam under atmospheric conditions was fabricated by applying a surface nitriding process on disc-shaped Ti–6Al–4V samples. On the generated surface, a melt layer comprising a TiN dendrite structure and a heat affected zone containing a needle-like α phase were detected. The modified layer exhibited optimal characteristics with the treatment at a laser output power of 12 W, resulting in a hardness of 12 GPa. The results of friction wear evaluation tests revealed that the layer exhibited superior abrasion resistance compared with an untreated Ti–6Al–4V substrate. © 2018 CIRP
+AUTHOR KEYWORDS: Laser; Nitriding; Surface modification; Titanium
+
+Basic principles for the design of cutting edge roundings
+(2018)
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047270044&doi=10.1016%2fj.cirp.2018.04.019&partnerID=40&md5=6089856d70fe259a6117a30e52475da8
+
+ABSTRACT: Adapted cutting edge roundings lead to a performance increase of cutting tools. The optimal cutting edge design is determined by the thermomechanical process load and thus depends on the machined material. In this study, the external mechanical load is investigated in direct relation to material properties by means of microcinematography. It could be shown that load characteristics are mainly material independent, whereas the load level depends on the machined material. Finally, the findings were transferred into a model, which enables the design of cutting edge roundings based on material properties. © 2018
+AUTHOR KEYWORDS: Cutting edge; Design; Modelling
+
